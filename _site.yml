@@ -1,0 +1,16 @@
+name: "Sky Onosson"
+title: "Sky Onosson"
+output_dir: "."
+navbar:
+  title: "Sky Onosson"
+  left:
+    - text: "Linguistics"
+      href: research.html
+    - text: "Music"
+      href: music.html
+output:
+  html_document:
+    includes:
+      after_body: footer.html
+    theme: flatly
+    css: 'styles.css'

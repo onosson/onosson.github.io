@@ -1,0 +1,37 @@
+---
+title: "Sky Onosson"
+---
+
+<style type="text/css">
+
+h1.title {
+  display: none;
+}
+</style>
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+<br>
+
+<img src="images/me_rio.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="left">
+
+<br>
+
+## Welcome! 
+
+<big>
+This site is divided into two main sections, devoted to my work either as a **[Linguist](research.html)** or as a **[Musician](music.html)**. My time is mostly devoted to academic work in linguistics these days, although I still perform fairly regularly in various musical settings.
+
+---
+
+### Contact and Social Media [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("twitter", fill="steelblue")`](https://twitter.com/onosson){target="_blank"} [`r fa("facebook", fill="steelblue")`](https://www.facebook.com/onosson){target="_blank"} [`r fa("instagram", fill="steelblue")`](https://instagram.com/sky_onosson){target="_blank"}
+
+If you'd like to get in touch with me, the best way is by email at sky@onosson.com.
+
+I also have an institutional email at Sky.Onosson@umanitoba.ca, although I don't check it as frequently.
+
+And you can find me in all of the usual places --- [Twitter](https://twitter.com/onosson){target="_blank"}, [Facebook](https://www.facebook.com/onosson){target="_blank"} and [Instagram](https://instagram.com/sky_onosson){target="_blank"} --- where I post a mix of academic, music-related, and personal stuff.
+
+</big>
