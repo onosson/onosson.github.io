@@ -16,7 +16,7 @@ library(fontawesome)
 
 <br>
 
-<img src="images/me_rio.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right">
+<img src="images/sound bars blue.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right">
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
