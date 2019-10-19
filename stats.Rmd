@@ -65,7 +65,7 @@ We will be referencing at least two online books, both of which were written in 
 
 * **Quantitative Methods for Linguistic Data**: **http://people.linguistics.mcgill.ca/~morgan/book/** <br> *Source code*: **https://github.com/mlml/stats_book** <br> This book assumes a lot more background in stats, so we won't be starting here, but it does deal specifically with application to linguistic data, and common types of statistical analysis in our field, so we will also be looking at this book.
 
-* **Data wrangling, exploration, and analysis with R**: https://stat545.com/index.html <br> *Source code*: https://github.com/rstudio-education/stat545 <br> This book is focused on data and file management and not on statistical analysis, but I may use some parts of this in the workshop if I feel it's appropriate or would be helpful as we go along.
+* **Data wrangling, exploration, and analysis with R**: https://stat545.com/index.html <br> *Source code*: https://github.com/rstudio-education/stat545 <br> This book is focused on data management and exploration but *not* on statistical analysis; however, I may use some parts of this in the workshop if I feel it's appropriate or would be helpful as we go along.
 
 <br><br><br>
 
