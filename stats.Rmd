@@ -1,0 +1,53 @@
+---
+title: "University of Manitoba Statistics for Linguistics Workshop 2019"
+output: html_document
+---
+
+<style type="text/css">
+
+h1.title {
+  display: none;
+}
+</style>
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+<br>
+
+<img src="images/me_rio.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="left">
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+
+<br><br><br>
+
+---
+
+<center>Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", height=16, fill="steelblue")` R Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}</center>
+---
+# , copyright &copy; `r format(Sys.Date(), "%Y")`
+---

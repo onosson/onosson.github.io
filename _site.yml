@@ -1,16 +1,14 @@
-name: "Sky Onosson"
-title: "Sky Onosson"
+name: "Sky Onosson's GitHub site"
+title: "Sky Onosson's GitHub site"
 output_dir: "."
 navbar:
-  title: "Sky Onosson"
+  title: "Sky Onosson's GitHub site"
   left:
-    - text: "Linguistics"
-      href: research.html
-    - text: "Music"
-      href: music.html
+    - text: "Research/Home"
+      href: index.html
+    - text: "U. Manitoba Statistics for Linguistics Workshop 2019"
+      href: stats.html
 output:
   html_document:
-    includes:
-      after_body: footer.html
     theme: flatly
     css: 'styles.css'

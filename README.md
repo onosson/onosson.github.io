@@ -1,2 +1,0 @@
-# onosson.com
-onosson.com
