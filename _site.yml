@@ -4,8 +4,6 @@ output_dir: "."
 navbar:
   title: "Sky Onosson's GitHub site"
   left:
-    - text: "Research/Home"
-      href: index.html
     - text: "U. Manitoba Statistics for Linguistics Workshop 2019"
       href: stats.html
 output:
