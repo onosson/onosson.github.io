@@ -4,8 +4,6 @@ output:
   html_document:
     includes:
       after_body: footer.html
-    theme: flatly
-    css: 'styles.css'
 ---
 
 <style type="text/css">
