@@ -21,7 +21,7 @@ library(fontawesome)
 
 <br>
 
-<img src="images/me_bass.jpg" style="width:25%; border:8px solid; margin-right: 25px" align="left">
+<img src="images/me_bass.jpg" style="width:25%; border:8px solid; margin-right: 25px" align="right">
 
 ## Music
 
