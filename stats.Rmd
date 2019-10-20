@@ -34,6 +34,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Welcome to the homepage of the Workshop on Statistics for Linguistics held at the University of Manitoba in December, 2019. This page will provide you with a brief description of what you can expect, and a variety of links and other useful information for your reference.
 
+---
+
 ### Who is the workshop for?
 
 This workshop is for people who have *"some background in R"*, such as writing up code, loading data, and printing plots and graphs. This does not need to be extensive experience, and we will have time to review & refresh your knowledge at the beginning, or throughout as necessary. We are expecting between 12--15 people, although that may change.
@@ -46,6 +48,8 @@ The workshop is intended to cover the use of the R programming language to carry
 
 Other than bringing yourself of course, you will probably want to bring a laptop with R and RStudio installed. Choice of operating system shouldn't be that important, but I'll be using a Mac if anyone cares. I will be running the workshop via my laptop projected on the screen, and you can just observe if you like, but you're probably not going to get the most out of the workshop that way, so I'm going to just assume everyone will be bringing a functioning laptop.
 
+---
+
 ### Important links (software)
 
 It would be helpful if everyone downloaded and installed both **R** and **RStudio** prior to the first day, although if you do have issues with that we can try and sort them out on the first day.
@@ -57,7 +61,7 @@ It would be helpful if everyone downloaded and installed both **R** and **RStudi
 * **RStudio Cheat Sheets**: **https://rstudio.com/resources/cheatsheets/**
 <br> These are a great resource to keep on hand for quick reference; I recommend the *RStudio IDE*, *Base R*, *Data Transformation* and *Data Visualization* Cheat Sheets for anyone getting started.
 
-### Important links (resources):
+### Important links (resources)
 
 We will be referencing at least two online books, both of which were written in R Markdown and are available both as standalone websites, as well as in source code. I *highly recommend* that you access the source code for each, which can be downloaded directly as a .zip file from the respective GitHub pages below, as I will be working directly from these files in the workshop. To download the source code files, go to the indicated links below, click the **Clone or download** button, and select either **Download ZIP** (most users) or **Open in Desktop** (if you already know what you're doing in GitHub).
 
