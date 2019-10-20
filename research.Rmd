@@ -25,7 +25,7 @@ My research in linguistics revolves around the fields of acoustic phonetics, art
 
 ---
 
-### Current work and previous experience [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV2019.pdf){target="_blank"}
+### Current work and previous experience [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
 I am currently working as a Postdoctoral Research Fellow in the [Department of Linguistics](https://umanitoba.ca/linguistics/){target="_blank"} at the [University of Manitoba](https://www.umanitoba.ca/){target="_blank"} as part of the *Language in the Prairies Project* spearheaded by [Dr. Nicole Rosen](https://home.cc.umanitoba.ca/~rosenn/){target="_blank"} (see below).
 
