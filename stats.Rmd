@@ -50,7 +50,7 @@ Other than bringing yourself of course, you will probably want to bring a laptop
 
 ---
 
-### Important links (software)
+## Software
 
 It would be helpful if everyone downloaded and installed both **R** and **RStudio** prior to the first day, although if you do have issues with that we can try and sort them out on the first day.
 
@@ -61,7 +61,9 @@ It would be helpful if everyone downloaded and installed both **R** and **RStudi
 * **RStudio Cheat Sheets**: **https://rstudio.com/resources/cheatsheets/**
 <br> These are a great resource to keep on hand for quick reference; I recommend the *RStudio IDE*, *Base R*, *Data Transformation* and *Data Visualization* Cheat Sheets for anyone getting started.
 
-### Important links (resources)
+---
+
+## Books & other resources
 
 We will be referencing at least two online books, both of which were written in R Markdown and are available both as standalone websites, as well as in source code. I *highly recommend* that you access the source code for each, which can be downloaded directly as a .zip file from the respective GitHub pages below, as I will be working directly from these files in the workshop. To download the source code files, go to the indicated links below, click the **Clone or download** button, and select either **Download ZIP** (most users) or **Open in Desktop** (if you already know what you're doing in GitHub).
 
@@ -69,7 +71,15 @@ We will be referencing at least two online books, both of which were written in 
 
 * **Quantitative Methods for Linguistic Data**: **http://people.linguistics.mcgill.ca/~morgan/book/** <br> *Source code*: **https://github.com/mlml/stats_book** <br> This book assumes a lot more background in stats, so we won't be starting here, but it does deal specifically with application to linguistic data, and common types of statistical analysis in our field, so we will also be looking at this book.
 
-* **Data wrangling, exploration, and analysis with R**: https://stat545.com/index.html <br> *Source code*: https://github.com/rstudio-education/stat545 <br> This book is focused on data management and exploration but *not* on statistical analysis; however, I may use some parts of this in the workshop if I feel it's appropriate or would be helpful as we go along.
+* Any additional files which I plan to include in the workshop will appear in this list.
+
+---
+
+### More links (optional)
+
+* **Data wrangling, exploration, and analysis with R**: **https://stat545.com/index.html** <br> *Source code*: **https://github.com/rstudio-education/stat545** <br> This book is focused on data management and exploration but *not* on statistical analysis; however, I may use some parts of this in the workshop if I feel it's appropriate or would be helpful as we go along.
+
+* While I won't get into working with Git directly during the workshop, if you are interested in taking this a step further, you might want to set up a **GitHub** account for yourself over at **https://github.com/** and download their desktop software **https://desktop.github.com/** (there are other alternatives, but this is what I use for better or worse). And here is a good guide to getting Git and RStudio to play nicely with each other: **https://happygitwithr.com/**
 
 <br><br><br>
 
