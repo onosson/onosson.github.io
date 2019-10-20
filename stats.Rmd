@@ -1,9 +1,12 @@
 ---
 title: "Workshop on Statistics for Linguistics"
+<<<<<<< HEAD
 output:
   html_document:
     theme: flatly
     css: 'styles.css'
+=======
+>>>>>>> fd445cabf74a3bc3b29e103ab848ce3ebd21091a
 ---
 
 <style type="text/css">

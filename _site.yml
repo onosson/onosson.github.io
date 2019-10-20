@@ -9,4 +9,14 @@ navbar:
     - text: "Workshop on Statistics for Linguistics"
       href: stats.html
     - text: "Music"
+<<<<<<< HEAD
       href: music.html
+=======
+      href: music.html
+output:
+  html_document:
+    includes:
+      after_body: footer.html
+    theme: flatly
+    css: 'styles.css'
+>>>>>>> fd445cabf74a3bc3b29e103ab848ce3ebd21091a
