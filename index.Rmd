@@ -23,9 +23,9 @@ library(fontawesome)
 
 <img src="images/me_rio.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right">
 
-I am currently in the process of moving my personal site over to *GitHub pages*, where you retrieving this page from. If there are errors or anything breaks, I should get around to fixing it shortly.
-
 This site contains information on my work as a **[Linguist](research.html)**, including teaching and related resources. Currently I am adding materials related to a **[Workshop on Statistics for Linguistics](stats.html)**. There is also a page devoted to my career as a **[Musician](music.html)**. My time is mostly devoted to academic work in linguistics these days, although I still perform fairly regularly in various musical settings.
+
+***Note:** I am currently in the process of moving this site from my previous host over to GitHub pages, where you are now retrieving it from. If there are errors or anything breaks, I should get around to fixing it shortly, but please be patient.*
 
 ---
 
