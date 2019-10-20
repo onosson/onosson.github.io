@@ -8,6 +8,7 @@ navbar:
       href: research.html
     - text: "Workshop on Statistics for Linguistics"
       href: stats.html
+  right:
     - text: "Music"
       href: music.html
 output:
