@@ -1,6 +1,5 @@
 ---
-title: "University of Manitoba 2019 Workshop on Statistics for Linguistics"
-output: html_document
+title: "Workshop on Statistics for Linguistics"
 ---
 
 <style type="text/css">
@@ -81,11 +80,4 @@ We will be referencing at least two online books, both of which were written in 
 
 * While I won't get into working with Git directly during the workshop, if you are interested in taking this a step further, you might want to set up a **GitHub** account for yourself over at **https://github.com/** and download their desktop software **https://desktop.github.com/** (there are other alternatives, but this is what I use for better or worse). And here is a good guide to getting Git and RStudio to play nicely with each other: **https://happygitwithr.com/**
 
-<br><br><br>
-
----
-
-<center>Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", height=16, fill="steelblue")` R Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}</center>
----
-# , copyright &copy; `r format(Sys.Date(), "%Y")`
----
+</big>
