@@ -1,5 +1,5 @@
 ---
-title: "Research/Home"
+title: "Home"
 ---
 
 <style type="text/css">
@@ -21,29 +21,20 @@ library(fontawesome)
 
 ## Welcome
 
-This is my GitHub site. It replicates large parts of my personal website, but is geared more towards teaching and related resources.
+I am currently in the process of moving my personal site over to *GitHub pages*, where you retrieving this page from. If there are errors or anything breaks, I should get around to fixing it shortly.
 
-Currently I am adding materials related to a Workshop on Statistics for Linguistics -- see the navigation bar above.
+This site contains information on my work as a **[Linguist](research.html)**, including teaching and related resources. Currently I am adding materials related to a **[Workshop on Statistics for Linguistics](stats.html)**. There is also a page devoted to my career as a **[Musician](music.html)**. My time is mostly devoted to academic work in linguistics these days, although I still perform fairly regularly in various musical settings.
 
 ---
 
-### Contact and online resources [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("researchgate", fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"}  [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"}
+### Contact and Social Media [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("twitter", fill="steelblue")`](https://twitter.com/onosson){target="_blank"} [`r fa("facebook", fill="steelblue")`](https://www.facebook.com/onosson){target="_blank"} [`r fa("instagram", fill="steelblue")`](https://instagram.com/sky_onosson){target="_blank"}
 
 If you'd like to get in touch with me, the best way is by email at sky@onosson.com.
 
 I also have an institutional email at Sky.Onosson@umanitoba.ca, although I don't check it as frequently.
 
-[ResearchGate](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} hosts a number of my academic papers and conference presentations.
+And you can find me in all of the usual places --- [Twitter](https://twitter.com/onosson){target="_blank"}, [Facebook](https://www.facebook.com/onosson){target="_blank"} and [Instagram](https://instagram.com/sky_onosson){target="_blank"} --- where I post a mix of academic, music-related, and personal stuff.
 
-My main [GitHub](https://github.com/onosson){target="_blank"} page hosts some of my Praat & R scripts and related materials, although most of these will not be publicly visible.
+*I believe it is good policy not to follow/friend current students on social media.*
 
-I have omitted my other social media information on this site, but if you would like those links you can head over to my regular website (which looks a lot like this one) at: [onosson.com](https://onosson.com){target="_blank"}. I believe it is good policy not to follow/friend current students on social media, however.
-
-<br><br><br>
-
----
-
-<center>Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", height=16, fill="steelblue")` R Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}</center>
----
-# , copyright &copy; `r format(Sys.Date(), "%Y")`
----
+</big>

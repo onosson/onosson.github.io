@@ -38,6 +38,16 @@ My academic work and research experience includes teaching courses in Linguistic
 
 ---
 
+### Connections [`r fa("researchgate", fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin", fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"}
+
+[ResearchGate](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} hosts a number of my academic papers and conference presentations.
+
+I have [LinkedIn](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} profile that I try to keep updated frequently.
+
+[GitHub](https://github.com/onosson){target="_blank"} hosts some of my Praat & R scripts and related materials, although most of these will not be publicly visible.
+
+---
+
 ### Research
 
 I currently have five active research projects:
@@ -61,7 +71,7 @@ I host archived copies of most of my published or presented work going back to m
 Year | Title | Journal/Forum
 -|---|---
 2020 | Ethnolinguistic Vowel Differentiation In Winnipeg, Canada (in progress) | American Dialect Society, New Orleans LA
-2019 | Workshop on Statistics for Linguistics (in development) | University of Manitoba
+2019 | [Workshop on Statistics for Linguistics (in development)](stats.html) | University of Manitoba
 2019 | [Differences In Vowel-glide Production Between L1 And L2 Speakers Of Hul'q'umi'num'](pdf/Onosson,%20Bird%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
 &nbsp; | [Ethnolinguistic Differentiation and the Canadian Shift](pdf/Onosson,%20Rosen,%20Li%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
 &nbsp; | [Acoustic Phonetics and Language Revitalization in the Hul’q’umi’num’ Community](pdf/Onosson%20-%202019%20-%20Prairie%20Workshop%20on%20Languages%20and%20Linguistics%20V.pdf){target="_blank"} | Prairie Workshop on Languages and Linguistics V, University of Winnipeg
@@ -82,12 +92,3 @@ Year | Title | Journal/Forum
 2010 | [Canadian Raising in Manitoba: Acoustic Effects of Articulatory Phasing and Lexical Frequency](pdf/Onosson%20-%202010%20-%20MA%20Thesis.pdf){target="_blank"} | Master's thesis, University of Manitoba
 
 </big>
-
-<br><br><br>
-
----
-
-<center>Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", height=16, fill="steelblue")` R Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}</center>
----
-# , copyright &copy; `r format(Sys.Date(), "%Y")`
----
