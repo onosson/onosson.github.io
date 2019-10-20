@@ -25,6 +25,8 @@ This is my GitHub site. It replicates large parts of my personal website, but is
 
 Currently I am adding materials related to a Workshop on Statistics for Linguistics -- see the navigation bar above.
 
+---
+
 ### Contact and online resources [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("researchgate", fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"}  [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"}
 
 If you'd like to get in touch with me, the best way is by email at sky@onosson.com.
