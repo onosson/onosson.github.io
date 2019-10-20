@@ -51,6 +51,24 @@ Other than bringing yourself of course, you will probably want to bring a laptop
 
 ---
 
+## Agenda
+
+The agenda here is subject to change as I prepare the workshop, and on a day-by-day basis, but should cover roughly the following order of topics.
+
+**Day One:** 
+
+* review & refresher on R and RStudio including data management, loading files, data exploration & plotting, basics of modeling
+
+**Day Two:** 
+
+* t-tests, linear regression 
+
+**Day Three:**
+
+* linear mixed-effects models
+
+---
+
 ## Software
 
 It would be helpful if everyone downloaded and installed both **R** and **RStudio** prior to the first day, although if you do have issues with that we can try and sort them out on the first day.
