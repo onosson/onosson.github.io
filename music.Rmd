@@ -1,5 +1,11 @@
 ---
 title: "Music"
+output:
+  html_document:
+    theme: darkly
+    css: 'styles.css'
+    includes:
+      after_body: footer.html
 ---
 
 <style type="text/css">

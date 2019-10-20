@@ -1,5 +1,9 @@
 ---
 title: "Workshop on Statistics for Linguistics"
+output:
+  html_document:
+    theme: flatly
+    css: 'styles.css'
 ---
 
 <style type="text/css">
