@@ -1,14 +1,11 @@
 ---
 title: "Music"
-<<<<<<< HEAD
 output:
   html_document:
-    theme: darkly
-    css: 'styles.css'
     includes:
       after_body: footer.html
-=======
->>>>>>> fd445cabf74a3bc3b29e103ab848ce3ebd21091a
+    theme: darkly
+    css: 'styles.css'
 ---
 
 <style type="text/css">
@@ -24,11 +21,7 @@ library(fontawesome)
 
 <br>
 
-<<<<<<< HEAD
-<img src="images/me_bass.jpg" style="width:25%; border:8px solid; margin-right: 25px" align="right">
-=======
 <img src="images/me_bass.jpg" style="width:25%; border:8px solid; margin-right: 25px" align="left">
->>>>>>> fd445cabf74a3bc3b29e103ab848ce3ebd21091a
 
 ## Music
 

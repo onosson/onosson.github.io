@@ -1,14 +1,11 @@
 ---
 title: "Home"
-<<<<<<< HEAD
 output:
   html_document:
-    theme: flatly
-    css: 'styles.css'
     includes:
       after_body: footer.html
-=======
->>>>>>> fd445cabf74a3bc3b29e103ab848ce3ebd21091a
+    theme: flatly
+    css: 'styles.css'
 ---
 
 <style type="text/css">
