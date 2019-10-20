@@ -17,13 +17,11 @@ h1.title {
 library(fontawesome)
 ```
 
-<br>
-
-<img src="images/me_rio.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right">
-
 <big>
 
 ## Welcome
+
+<img src="images/me_rio.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right">
 
 I am currently in the process of moving my personal site over to *GitHub pages*, where you retrieving this page from. If there are errors or anything breaks, I should get around to fixing it shortly.
 

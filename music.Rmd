@@ -17,13 +17,12 @@ h1.title {
 library(fontawesome)
 ```
 
-<br>
-
-<img src="images/me_bass.jpg" style="width:25%; border:8px solid; margin-right: 25px" align="right">
+<big>
 
 ## Music
 
-<big>
+<img src="images/me_bass.jpg" style="width:25%; border:8px solid; margin-right: 25px" align="right">
+
 I've been a musician since the age of five, starting on keyboards and then moving on to bass, guitar, and saxophone (briefly). I started working pretty much full-time in music right out of high school playing bass and keyboards with my group [The New Meanies](https://www.facebook.com/TheNewMeanies){target="_blank"} (formerly the Blue Meanies). We released four albums since forming around 1990, including "Three Seeds" under Virgin Records, as well as the indie follow-up to that, "Highways". We haven't done very much recording-wise over the past decade, but we still play 2--3 shows a year in and around Winnipeg.
 
 Over the course of my career as a musician, I've had the privilege of opening for a number of world-class artists including *Deep Purple, Dave Matthews Band, Alice Cooper, Paul Rodgers (of Queen and Bad Company), Little Feat, Parliament/Funkadelic, The Beach Boys,* and *Bruce Cockburn*, among others. The Meanies were nominated in 1999 for two Juno awards including *Best New Group* and *Album Design*, and won a Prairie Music Award for the video for "Letting Time Pass".

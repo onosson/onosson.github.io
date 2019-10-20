@@ -15,17 +15,11 @@ h1.title {
 library(fontawesome)
 ```
 
-<br>
-
-<img src="images/ice.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right">
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 <big>
 
-## The Workshop on Statistics for Linguistics
+## Workshop on Statistics for Linguistics
+
+<img src="images/ice.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right">
 
 **Dates**: Dec. 9, 11, 13 (tentative)
 
