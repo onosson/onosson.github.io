@@ -19,7 +19,7 @@ library(fontawesome)
 
 <big>
 
-## Linguistics
+## Research
 
 <img src="images/me_thumb.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right">
 
@@ -50,7 +50,7 @@ I have [LinkedIn](https://www.linkedin.com/in/sky-onosson-57902870/){target="_bl
 
 ---
 
-### Research
+### Projects
 
 I currently have five active research projects:
 
