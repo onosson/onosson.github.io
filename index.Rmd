@@ -19,9 +19,9 @@ library(fontawesome)
 
 <big>
 
-## Welcome
-
 <img src="images/me_rio.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right">
+
+## Welcome
 
 This site contains information on my work as a **[Linguist](research.html)**, including teaching and related resources. Currently I am adding materials related to a **[Workshop on Statistics for Linguistics](stats.html)**. There is also a page devoted to my career as a **[Musician](music.html)**. My time is mostly devoted to academic work in linguistics these days, although I still perform fairly regularly in various musical settings.
 
