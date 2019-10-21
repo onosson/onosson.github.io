@@ -19,9 +19,9 @@ library(fontawesome)
 
 <big>
 
-## Music
-
 <img src="images/me_bass.jpg" style="width:25%; border:8px solid; margin-right: 25px" align="right">
+
+## Music
 
 I've been a musician since the age of five, starting on keyboards and then moving on to bass, guitar, and saxophone (briefly). I started working pretty much full-time in music right out of high school playing bass and keyboards with my group [The New Meanies](https://www.facebook.com/TheNewMeanies){target="_blank"} (formerly the Blue Meanies). We released four albums since forming around 1990, including "Three Seeds" under Virgin Records, as well as the indie follow-up to that, "Highways". We haven't done very much recording-wise over the past decade, but we still play 2--3 shows a year in and around Winnipeg.
 
