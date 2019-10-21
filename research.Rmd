@@ -1,6 +1,9 @@
 ---
 title: "Research"
-output: pdf_document
+output:
+  html_document:
+    includes:
+      after_body: footer.html
 ---
 
 <style type="text/css">
@@ -26,7 +29,7 @@ My research in linguistics revolves around the fields of acoustic phonetics, soc
 
 ---
 
-### Current work and previous experience [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV2019.pdf){target="_blank"}
+### Current work and previous experience [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
 I am currently working as a Postdoctoral Research Fellow in the [Department of Linguistics](https://umanitoba.ca/linguistics/){target="_blank"} at the [University of Manitoba](https://www.umanitoba.ca/){target="_blank"} as part of the [*Languages in the Prairies Project*](https://home.cc.umanitoba.ca/~rosenn/sace.html){target="_blank"} spearheaded by [Dr. Nicole Rosen](https://home.cc.umanitoba.ca/~rosenn/){target="_blank"} (see below).
 
@@ -63,7 +66,7 @@ Year | Title | Journal/Forum
 -|---|---
 2020 | Ethnolinguistic Vowel Differentiation In Winnipeg, Canada (in progress) | American Dialect Society, New Orleans LA
 2019 | Workshop on Statistics for Linguistics (in development) | University of Manitoba
-2019 | [Differences In Vowel-glide Production Between L1 And L2 Speakers Of Hul'q'umi'num'](pdf/Onosson,%20Bird%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
+&nbsp; | [Differences In Vowel-glide Production Between L1 And L2 Speakers Of Hul'q'umi'num'](pdf/Onosson,%20Bird%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
 &nbsp; | [Ethnolinguistic Differentiation and the Canadian Shift](pdf/Onosson,%20Rosen,%20Li%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
 &nbsp; | [Acoustic Phonetics and Language Revitalization in the Hul’q’umi’num’ Community](pdf/Onosson%20-%202019%20-%20Prairie%20Workshop%20on%20Languages%20and%20Linguistics%20V.pdf){target="_blank"} | Prairie Workshop on Languages and Linguistics V, University of Winnipeg
 2018 | [An Acoustic Study of Canadian Raising in Three Dialects of North American English](pdf/Onosson%20-%202018%20-%20PhD%20Dissertation.pdf){target="_blank"} | Ph.D. dissertation, the University of Victoria
@@ -83,12 +86,3 @@ Year | Title | Journal/Forum
 2010 | [Canadian Raising in Manitoba: Acoustic Effects of Articulatory Phasing and Lexical Frequency](pdf/Onosson%20-%202010%20-%20MA%20Thesis.pdf){target="_blank"} | Master's thesis, University of Manitoba
 
 </big>
-
-<br><br><br>
-
----
-
-<center>Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", height=16, fill="steelblue")` R Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}</center>
----
-# , copyright &copy; `r format(Sys.Date(), "%Y")`
----

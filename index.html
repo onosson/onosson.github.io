@@ -7,7 +7,6 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -84,6 +83,7 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -244,6 +244,18 @@ $(document).ready(function () {
 }
 </style>
 
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
 <!-- code folding -->
 
 
@@ -302,8 +314,7 @@ h1.title {
   display: none;
 }
 </style>
-<div id="section" class="section level1">
-<h1></h1>
+<p><br></p>
 <p><img src="images/me_rio.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right"></p>
 <p><big></p>
 <div id="welcome" class="section level2">
@@ -318,7 +329,6 @@ h1.title {
 <p>And you can find me in all of the usual places — <a href="https://twitter.com/onosson" target="_blank">Twitter</a>, <a href="https://www.facebook.com/onosson" target="_blank">Facebook</a> and <a href="https://instagram.com/sky_onosson" target="_blank">Instagram</a> — where I post a mix of academic, music-related, and personal stuff.</p>
 <p><em>I believe it is good policy not to follow/friend current students on social media.</em></p>
 <p></big></p>
-</div>
 </div>
 </div>
 
@@ -690,23 +700,6 @@ $(document).ready(function () {
 
 
 </script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

@@ -15,7 +15,8 @@ h1.title {
 library(fontawesome)
 ```
 
-#
+<br>
+
 <img src="images/ice.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right">
 
 <big>
