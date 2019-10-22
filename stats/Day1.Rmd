@@ -1,0 +1,148 @@
+---
+title: "Workshop on Statistics for Linguistics"
+subtitle: "University of Manitoba"
+author: "Sky Onosson"
+output: html_document
+---
+
+```{r, include=FALSE, message=F, warning=F}
+knitr::opts_chunk$set(echo = TRUE)
+#knitr::opts_chunk$set(echo = TRUE, fig.width=6, fig.height=4)
+```
+
+<big>
+
+---
+
+## The Languages in the Prairies Project (LIPP)
+
+We will be working with data from Dr. Nicole Rosen's LIPP corpus which documents language variation in the Prairie provinces. We will focus on data collected in interviews with Winnipeg residents who are either migrants from the Philippines, or who have Filipino ancestry.
+
+---
+
+## Loading the data
+
+First, we will load some R packages which we will need later. The `dplyr` package may give you some warnings which you don't need to worry about.
+
+```{r, message=F, warning=F}
+library(dplyr)
+library(readr)
+library(ggplot2)
+library(viridisLite)
+```
+
+Next we load the LIPP data file, which is saved as a .csv (comma-separated values), a common simple-text format for spreadsheets.
+
+``` {r}
+LIPP_Filipino <- read_csv("LIPP_Filipino.csv")
+```
+
+The `read_csv` function loads this as a `tidyverse` data table type called a `tibble`, and we get some feedback as a result of doing this which tells us the names and types of variables present in each column. A `double` is a real number which may or may not have a decimal, i.e. some value that we might have measured. A `character` is some text-based value, which usually represents some level of a categorical variable.
+
+---
+
+## Examining the data
+### Histograms and frequency plots
+
+To begin, let's look at the distribution of F2 across all speakers and all vowels. A histogram is the most common way to do this, so let's see 2 ways to make one. The first involves the 'quick-plot' function `qplot()`, which takes limited input and is intended for producing plots when you just want to see the results quickly but don't care so much about tweaking the details. All you need to do is enter the names of the `data table` and the `variable`, separated by a `$`.
+
+``` {r}
+qplot(LIPP_Filipino$F2)
+```
+
+We get a warning about selecting a better 'binwidth', which is the numerical width of the 'bins' which the F2 values are sorted into, and that make up the stacked columns of the histogram.
+
+The second histogram ploting method uses `ggplot()` from the `ggplot2` package. The formula to produce this is a little more complex: we need to specify the data file, then tell it that our x-axis variable is F2, and that we specifically want a histogram.
+
+``` {r}
+ggplot(data=LIPP_Filipino, aes(x=F2)) +
+  geom_histogram()
+```
+
+We get the same warning here because we didn't specify any bin width, but we can now do so. Let's choose '50', i.e. every 50 Hz will be in a different bin.
+
+``` {r}
+ggplot(data=LIPP_Filipino, aes(x=F2)) +
+  geom_histogram(binwidth = 50)
+```
+
+Finally, an alternative to the common histogram is the frequency polygon, which works much the same way but just produces a contour outline of the data distribution.
+
+``` {r}
+ggplot(data=LIPP_Filipino, aes(x=F2)) +
+  geom_freqpoly(binwidth = 50)
+```
+
+It's generally thought that men's and women's voices differ in frequency, which affects not only fundamental frequency (i.e. pitch) but also the upper harmonics, which vowel formants consist of. Does our data reflect this? One way to tell is to 'facet' the separate distributions for each sex.
+
+>**Note:** Like a lot of linguistic corpora, LIPP divides speakers according to sex/gender into male and female, under the implicit assumption that sex and gender are a singular, binary social category. While there has been some work done in fields such as sociolinguistics to question this assumption, in all honesty it hasn't progressed very far, and even researchers (such as myself) who are prepared to accept that this assumption is wrong, or at least should be interrogated, are often unsure about specifically how this could better be dealt with. Until we have a better answer, and given that there isn't a consensus around this, I will present the LIPP data 'as-is'.
+
+``` {r}
+ggplot(data=LIPP_Filipino, aes(x=F2)) +
+  geom_freqpoly(binwidth = 50) +
+  facet_wrap(~ sex)
+```
+
+It looks like these distributions are different, but we could be more sure if we overlaid them on top of each other. We can do this by simply telling `ggplot` to differentiate the colour 'aesthetic' according to the `sex` variable.
+
+>**Note:** I have a form of colour blindness which makes it very difficult for me to clearly distinguish a lot of the colours commonly present in plots. All of my examples here will use the ``scale_colour_viridis_d()`` function from the ``viridisLite`` R package, which is designed to *"provide colour maps that are perceptually uniform in both colour and black-and-white. They are also designed to be perceived by viewers with common forms of colour blindness"*. It can still be hard to distinguish large numbers of categories even with this method (see the vowels example below), but it's still better than a lot of the alternatives.
+
+``` {r F2sex}
+ggplot(data=LIPP_Filipino, aes(x=F2, colour=sex)) +
+  geom_freqpoly(binwidth = 50) +
+  scale_colour_viridis_d()
+```
+
+We can see pretty clearly here that the male and female speakers do have different distributions for F2, although the male distribution falls almost entirely inside the female distribution.
+
+Just out of curiosity, what if we applied the colour aesthetic to the `vowel` variable instead?
+
+``` {r}
+ggplot(data=LIPP_Filipino, aes(x=F2, colour=vowel)) +
+  geom_freqpoly(binwidth = 50) +
+  scale_colour_viridis_d()
+```
+
+We can see that each vowel has, as we might well expect, a unique distribution of F2 values. We'll come back to look at vowel differences a little later.
+
+### *t*-tests and boxplots
+
+For now, let's go back to speaker sex. Having observed earlier that the male & female speakers appear to have different F2 distributions, we might want to explicitly test this. A *t*-test is probably the simplest method for doing so, and is appropriate here because we are looking at one continuous variable, F2 values, split over two groups. We provide it with the two sets of data for F2, split by speaker sex, and it determines whether there is reason to reject the null hypothesis, which would be the assumption that the two distributions are statistically identical. *t* values greater than +/- 1.96 are considered significant.
+
+``` {r}
+t.test(x=LIPP_Filipino$F2[LIPP_Filipino$sex=="male"], y=LIPP_Filipino$F2[LIPP_Filipino$sex=="female"])
+```
+
+Because the *t* value is quite large and the *p* value is extremely small, we can comfortably reject the null hypothesis, and conclude that the LIPP male vs. female F2 distributions are substantially (*t* value) and significantly (*p* value) different from each other.
+
+One more thing -- let's look at these two distributions in a boxplot. These are somewhat simplistic looking plots which highlight certain key aspects of a distribution. Boxplots expect to be provided one continuous variable (often plotted on the *y*-axis) and one categorical variable (on the *x*-axis) -- sometimes, there may be just one set of data, in which case there is no categorical variable to divide the data by.
+
+``` {r}
+ggplot(data=LIPP_Filipino, aes(y=F2, x=sex)) +
+  geom_boxplot() +
+  scale_colour_viridis_d()
+```
+
+What is indicated in the boxplot? The box itself contains the central 50% of the distribution, and the central line indicates the median (not the mean!) value, i.e. the value exactly in the centre of the range. The two extended lines or "whiskers" mark the range of the distribution beyond which observations are considered to be "outliers", which are marked with dots. The whiskers are each 1.5 times the distance of the box itself, i.e. 1.5 times the central 50% of the range (this is the interquartile range or IQR). Note that there appear to be a lot more high-frequency outliers than low-frequency ones, for both males and females.
+
+Overall, the two distributions look pretty similar to each other, but the female speakers' frequencies are shifted higher by 200-300 Hz. This both fits with our intuition and knowledge about sex-based speech differences, and our previous examination of the data.
+
+### Exercises
+
+1. What other variables in the data could we perform *t*-tests on? Try running some of them using the previous code as an example.
+
+1. What kinds of things can you *not* do with the *t*-test? Try to think of some questions that you wouldn't be able to answer using the things we've looked at so far.
+
+### ANOVAs
+
+
+
+
+
+
+
+
+
+<center>**[BACK TO WORKSHOP HOME](stats.html)**</center>
+
+</big>
