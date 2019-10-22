@@ -61,7 +61,7 @@ The daily agenda is subject to change as I prepare the workshop, and on a day-by
 
 * linear mixed-effects models
 
-**Note:** The source code for each day's topics can be downloaded from this GitHub repository: **https://github.com/onosson/UM_Workshop**
+**Note:** The source code for each day's discussion can be downloaded from this GitHub repository: **https://github.com/onosson/UM_Workshop**
 
 To download source code files (including for the books listed further below), click the **Clone or download** button, and select either **Download ZIP** (most users) or **Open in Desktop** (if you already know what you're doing in GitHub).
 
