@@ -1,8 +1,10 @@
 ---
-title: "Workshop on Statistics for Linguistics"
+title: "Workshop on Statistics for Linguistics: Day One"
 subtitle: "University of Manitoba"
 author: "Sky Onosson"
-output: html_document
+output: 
+  html_document:
+    number_sections: true
 ---
 
 ```{r, include=FALSE, message=F, warning=F}
@@ -12,15 +14,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <big>
 
----
-
-## The Languages in the Prairies Project (LIPP)
+# The Languages in the Prairies Project (LIPP)
 
 We will be working with data from Dr. Nicole Rosen's LIPP corpus which documents language variation in the Prairie provinces. We will focus on data collected in interviews with Winnipeg residents who are either migrants from the Philippines, or who have Filipino ancestry.
 
----
-
-## Loading the data
+# Loading the data
 
 First, we will load some R packages which we will need later. The `dplyr` package may give you some warnings which you don't need to worry about.
 
@@ -31,18 +29,19 @@ library(ggplot2)
 library(viridisLite)
 ```
 
-Next we load the LIPP data file, which is saved as a .csv (comma-separated values), a common simple-text format for spreadsheets.
+Next we load the LIPP data file, which is saved as a .csv (comma-separated values), a common simple-text format for spreadsheets. We will use the `read_csv` function to store this as `LIPP_Filipino`.
 
 ``` {r}
 LIPP_Filipino <- read_csv("LIPP_Filipino.csv")
 ```
 
-The `read_csv` function loads this as a `tidyverse` data table type called a `tibble`, and we get some feedback as a result of doing this which tells us the names and types of variables present in each column. A `double` is a real number which may or may not have a decimal, i.e. some value that we might have measured. A `character` is some text-based value, which usually represents some level of a categorical variable.
+The `read_csv` function loads a .csv as a `tidyverse` data table type called a `tibble`, and we get some feedback as a result of doing this which tells us the names and types of variables present in each column. A `double` is a real number which may or may not have a decimal, i.e. some value that we might have measured. A `character` is some text-based value, which usually represents some level of a categorical variable.
 
----
+# Examining the data
 
-## Examining the data
-### Histograms and frequency plots
+We will run through a few ways of investigating a dataset such as the LIPP .csv which we loaded earlier as `LIPP_Filipino`. We're going to focus on F2, the second vowel formant which is correlated with vowel front-to-back position, with higher F2 values indicating a more forward position.
+
+## Histograms
 
 To begin, let's look at the distribution of F2 across all speakers and all vowels. A histogram is the most common way to do this, so let's see 2 ways to make one. The first involves the 'quick-plot' function `qplot()`, which takes limited input and is intended for producing plots when you just want to see the results quickly but don't care so much about tweaking the details. All you need to do is enter the names of the `data table` and the `variable`, separated by a `$`.
 
@@ -66,7 +65,9 @@ ggplot(data=LIPP_Filipino, aes(x=F2)) +
   geom_histogram(binwidth = 50)
 ```
 
-Finally, an alternative to the common histogram is the frequency polygon, which works much the same way but just produces a contour outline of the data distribution.
+## Frequency plots
+
+An alternative to the histogram is the *frequency polygon*, which works much the same way but just produces a contour outline of the data distribution.
 
 ``` {r}
 ggplot(data=LIPP_Filipino, aes(x=F2)) +
@@ -105,15 +106,17 @@ ggplot(data=LIPP_Filipino, aes(x=F2, colour=vowel)) +
 
 We can see that each vowel has, as we might well expect, a unique distribution of F2 values. We'll come back to look at vowel differences a little later.
 
-### *t*-tests and boxplots
+## *t*-tests
 
-For now, let's go back to speaker sex. Having observed earlier that the male & female speakers appear to have different F2 distributions, we might want to explicitly test this. A *t*-test is probably the simplest method for doing so, and is appropriate here because we are looking at one continuous variable, F2 values, split over two groups. We provide it with the two sets of data for F2, split by speaker sex, and it determines whether there is reason to reject the null hypothesis, which would be the assumption that the two distributions are statistically identical. *t* values greater than +/- 1.96 are considered significant.
+Having observed earlier that the male & female speakers appear to have different F2 distributions, we might want to explicitly test this. A *t*-test is probably the simplest method for doing so, and is appropriate here because we are looking at one continuous variable, F2 values, split over two groups. We provide it with the two sets of data for F2, split by speaker sex, and it determines whether there is reason to reject the null hypothesis, which would be the assumption that the two distributions are statistically identical. *t* values greater than +/- 1.96 are considered significant.
 
 ``` {r}
 t.test(x=LIPP_Filipino$F2[LIPP_Filipino$sex=="male"], y=LIPP_Filipino$F2[LIPP_Filipino$sex=="female"])
 ```
 
 Because the *t* value is quite large and the *p* value is extremely small, we can comfortably reject the null hypothesis, and conclude that the LIPP male vs. female F2 distributions are substantially (*t* value) and significantly (*p* value) different from each other.
+
+## Boxplots
 
 One more thing -- let's look at these two distributions in a boxplot. These are somewhat simplistic looking plots which highlight certain key aspects of a distribution. Boxplots expect to be provided one continuous variable (often plotted on the *y*-axis) and one categorical variable (on the *x*-axis) -- sometimes, there may be just one set of data, in which case there is no categorical variable to divide the data by.
 
@@ -127,22 +130,14 @@ What is indicated in the boxplot? The box itself contains the central 50% of the
 
 Overall, the two distributions look pretty similar to each other, but the female speakers' frequencies are shifted higher by 200-300 Hz. This both fits with our intuition and knowledge about sex-based speech differences, and our previous examination of the data.
 
-### Exercises
+## Exercises
 
 1. What other variables in the data could we perform *t*-tests on? Try running some of them using the previous code as an example.
 
 1. What kinds of things can you *not* do with the *t*-test? Try to think of some questions that you wouldn't be able to answer using the things we've looked at so far.
 
-### ANOVAs
+# ANOVAs
 
 
-
-
-
-
-
-
-
-<center>**[BACK TO WORKSHOP HOME](stats.html)**</center>
 
 </big>

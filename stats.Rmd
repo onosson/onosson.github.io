@@ -31,8 +31,6 @@ library(fontawesome)
 
 Welcome to the homepage of the Workshop on Statistics for Linguistics held at the University of Manitoba in December, 2019. This page will provide you with a brief description of what you can expect, and a variety of links and other useful information for your reference.
 
----
-
 ### Who is the workshop for?
 
 This workshop is for people who have *"some background in R"*, such as writing up code, loading data, and printing plots and graphs. This does not need to be extensive experience, and we will have time to review & refresh your knowledge at the beginning, or throughout as necessary. We are expecting between 12--15 people, although that may change.
@@ -51,7 +49,7 @@ Other than bringing yourself of course, you will probably want to bring a laptop
 
 The daily agenda is subject to change as I prepare the workshop, and on a day-by-day basis, but should cover roughly the following order of topics.
 
-**[Day One:](stats/Day1.html)**
+**Day One:**
 
 * review & refresher on R and RStudio including data management, loading files, data exploration & plotting, basics of modeling
 
@@ -62,6 +60,10 @@ The daily agenda is subject to change as I prepare the workshop, and on a day-by
 **Day Three:**
 
 * linear mixed-effects models
+
+**Note:** The source code for each day's topics can be downloaded from this GitHub repository: **https://github.com/onosson/UM_Workshop**
+
+To download source code files (including for the books listed further below), click the **Clone or download** button, and select either **Download ZIP** (most users) or **Open in Desktop** (if you already know what you're doing in GitHub).
 
 ---
 
@@ -80,7 +82,7 @@ It would be helpful if everyone downloaded and installed both **R** and **RStudi
 
 ## Books & other resources
 
-We will be referencing at least two online books, both of which were written in R Markdown and are available both as standalone websites, as well as in source code. I *highly recommend* that you access the source code for each, which can be downloaded directly as a .zip file from the respective GitHub pages below, as I will be working directly from these files in the workshop. To download the source code files, go to the indicated links below, click the **Clone or download** button, and select either **Download ZIP** (most users) or **Open in Desktop** (if you already know what you're doing in GitHub).
+We will be referencing at least two online books, both of which were written in R Markdown and are available both as standalone websites, as well as in source code. I *highly recommend* that you access the source code for each, which can be downloaded directly as a .zip file from the respective GitHub pages below, as I will be working directly from these files in the workshop.
 
 * **R for Data Science (R4ds)**: **https://r4ds.had.co.nz/** <br> *Source code*: **https://github.com/hadley/r4ds** <br> This is co-written by Hadley Wickham, who is the author of the *tidyverse* family of R packages, and is an excellent reference which we will be using in the workshop. This book is also available in print, which is not free unlike the online version, and is also not updated as frequently.
 

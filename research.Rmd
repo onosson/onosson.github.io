@@ -65,7 +65,7 @@ I host archived copies of most of my published or presented work going back to m
 Year | Title | Journal/Forum
 -|---|---
 2020 | Ethnolinguistic Vowel Differentiation In Winnipeg, Canada (in progress) | American Dialect Society, New Orleans LA
-2019 | Workshop on Statistics for Linguistics (in development) | University of Manitoba
+2019 | [Workshop on Statistics for Linguistics](stats.html) (in development) | University of Manitoba
 &nbsp; | [Differences In Vowel-glide Production Between L1 And L2 Speakers Of Hul'q'umi'num'](pdf/Onosson,%20Bird%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
 &nbsp; | [Ethnolinguistic Differentiation and the Canadian Shift](pdf/Onosson,%20Rosen,%20Li%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
 &nbsp; | [Acoustic Phonetics and Language Revitalization in the Hul’q’umi’num’ Community](pdf/Onosson%20-%202019%20-%20Prairie%20Workshop%20on%20Languages%20and%20Linguistics%20V.pdf){target="_blank"} | Prairie Workshop on Languages and Linguistics V, University of Winnipeg
