@@ -47,23 +47,18 @@ Other than bringing yourself of course, you will probably want to bring a laptop
 
 ## Agenda
 
-The daily agenda is subject to change as I prepare the workshop, and on a day-by-day basis, but should cover roughly the following order of topics.
+The daily agenda is subject to change as I prepare the workshop, and on a day-by-day basis, but should cover roughly the following order of topics. Given time constraints, we may or may not necessarily get through everything!
 
-**Day One:**
-
-* review & refresher on R and RStudio including data management, loading files, data exploration & plotting, basics of modeling
-
-**Day Two:** 
-
-* t-tests, linear regression 
-
-**Day Three:**
-
+* review & refresher on R and RStudio including data management, loading files, data manipulation
+* data exploration 
+* plotting
+* common statistical testing and considerations
+* t-tests, ANOVAs
+* linear regression
+* logistic regression
 * linear mixed-effects models
 
-**Note:** The source code for each day's discussion can be downloaded from this GitHub repository: **https://github.com/onosson/UM_Workshop**
-
-To download source code files (including for the books listed further below), click the **Clone or download** button, and select either **Download ZIP** (most users) or **Open in Desktop** (if you already know what you're doing in GitHub).
+> **Note:** The source code for each day's discussion, as well as several of the sources listed below, will be available from GitHub -- I will share the specific links for the workshop files closer to the start data. To download any GitHub source code files (including for the books listed further below), go to the appropriate link and click the **Clone or download** button, then select either **Download ZIP** (most users) or **Open in Desktop** (if you already know what you're doing in GitHub).
 
 ---
 

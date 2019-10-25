@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -83,7 +84,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -244,18 +244,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -339,21 +327,20 @@ h1.title {
 </div>
 <div id="agenda" class="section level2">
 <h2>Agenda</h2>
-<p>The daily agenda is subject to change as I prepare the workshop, and on a day-by-day basis, but should cover roughly the following order of topics.</p>
-<p><strong>Day One:</strong></p>
+<p>The daily agenda is subject to change as I prepare the workshop, and on a day-by-day basis, but should cover roughly the following order of topics. Given time constraints, we may or may not necessarily get through everything!</p>
 <ul>
-<li>review &amp; refresher on R and RStudio including data management, loading files, data exploration &amp; plotting, basics of modeling</li>
-</ul>
-<p><strong>Day Two:</strong></p>
-<ul>
-<li>t-tests, linear regression</li>
-</ul>
-<p><strong>Day Three:</strong></p>
-<ul>
+<li>review &amp; refresher on R and RStudio including data management, loading files, data manipulation</li>
+<li>data exploration</li>
+<li>plotting</li>
+<li>common statistical testing and considerations</li>
+<li>t-tests, ANOVAs</li>
+<li>linear regression</li>
+<li>logistic regression</li>
 <li>linear mixed-effects models</li>
 </ul>
-<p><strong>Note:</strong> The source code for each day’s discussion can be downloaded from this GitHub repository: <strong><a href="https://github.com/onosson/UM_Workshop" class="uri">https://github.com/onosson/UM_Workshop</a></strong></p>
-<p>To download source code files (including for the books listed further below), click the <strong>Clone or download</strong> button, and select either <strong>Download ZIP</strong> (most users) or <strong>Open in Desktop</strong> (if you already know what you’re doing in GitHub).</p>
+<blockquote>
+<p><strong>Note:</strong> The source code for each day’s discussion, as well as several of the sources listed below, will be available from GitHub – I will share the specific links for the workshop files closer to the start data. To download any GitHub source code files (including for the books listed further below), go to the appropriate link and click the <strong>Clone or download</strong> button, then select either <strong>Download ZIP</strong> (most users) or <strong>Open in Desktop</strong> (if you already know what you’re doing in GitHub).</p>
+</blockquote>
 <hr />
 </div>
 <div id="software" class="section level2">
@@ -402,6 +389,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
