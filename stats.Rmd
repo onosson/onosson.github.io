@@ -52,7 +52,8 @@ The daily agenda is subject to change as I prepare the workshop, and on a day-by
 * review & refresher on R and RStudio including data management, loading files, data manipulation
 * data exploration 
 * plotting
-* common statistical testing and considerations
+* descriptive statistics
+* distributions
 * t-tests, ANOVAs
 * linear regression
 * logistic regression
