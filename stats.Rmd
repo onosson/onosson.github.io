@@ -58,6 +58,7 @@ The daily agenda is subject to change as I prepare the workshop, and on a day-by
 * linear regression
 * logistic regression
 * linear mixed-effects models
+* generalized additive models
 
 > **Note:** The source code for each day's discussion, as well as several of the sources listed below, will be available from GitHub -- I will share the specific links for the workshop files closer to the start data. To download any GitHub source code files (including for the books listed further below), go to the appropriate link and click the **Clone or download** button, then select either **Download ZIP** (most users) or **Open in Desktop** (if you already know what you're doing in GitHub).
 
@@ -89,6 +90,7 @@ We will be referencing at least two online books, both of which were written in 
 ---
 
 ### More links (optional)
+* **Data Skills for Reproducible Science**: **https://psyteachr.github.io/msc-data-skills/** <br> This is an excellent coursebook developed for psychology students, but the methods introduced and discussed are compatible with linguistic research. Unfortunately, the source code does not appear to be available to the public.
 
 * **Data wrangling, exploration, and analysis with R**: **https://stat545.com/index.html** <br> *Source code*: **https://github.com/rstudio-education/stat545** <br> This book is focused on data management and exploration but *not* on statistical analysis; however, I may use some parts of this in the workshop if I feel it's appropriate or would be helpful as we go along.
 
