@@ -76,9 +76,9 @@ Year | Title | Journal/Forum
 2016 | [Yod variation in Victoria, B.C.: An acoustic-centred approach](pdf/Onosson%20-%202016%20-%20American%20Dialect%20Society.pdf){target="_blank"} | American Dialect Society, Washington DC
 &nbsp; | [Urban youth in Rio de Janeiro: Contemporary linguistic variation in Brazilian Portuguese](pdf/Thompson,%20Onosson%20-%202016%20-%20New%20Ways%20of%20Analyzing%20Variation%2045.pdf){target="_blank"} | New Ways of Analyzing Variation 45, Simon Fraser University
 2015 | [Simultaneous Innovation & Conservation: Unpacking Victoria's Vowels](pdf/Onosson,%20Roeder,%20D'Arcy%20-%202015%20-%20New%20Ways%20of%20Analyzing%20Variation%2044.pdf){target="_blank"} | New Ways of Analyzing Variation 44, University of Toronto
-&nbsp; | [There's a New Ethnolect in Town: Vowel Patterning of Filipino English in Winnipeg](pdf/Rosen,%20Onosson,%20Li%20-%202015%20-%20New%20Ways%20of%20Analyzing%20Variation%2044.pdf) | New Ways of Analyzing Variation 44, University of Toronto
+&nbsp; | [There's a New Ethnolect in Town: Vowel Patterning of Filipino English in Winnipeg](pdf/Rosen,%20Onosson,%20Li%20-%202015%20-%20New%20Ways%20of%20Analyzing%20Variation%2044.pdf){target="_blank"} | New Ways of Analyzing Variation 44, University of Toronto
 &nbsp; | [City, province or region: What do the vowels of Victoria tell us?](pdf/Onosson,%20Roeder,%20D'Arcy%20-%202015%20-%20American%20Dialect%20Society.pdf){target="_blank"} | American Dialect Society, Portland OR
-&nbsp; | [Acoustic Phonetics Lab Manual](pdf/Bird,%20Wang,%20Onosson,%20Benner%20-%202015.pdf){target="_blank"}
+&nbsp; | [Acoustic Phonetics Lab Manual](pdf/Bird,%20Wang,%20Onosson,%20Benner%20-%202015.pdf){target="_blank"} | Course textbook, University of Victoria
 2014 | [The Prosodic Structure of Canadian Raising](pdf/Onosson%20-%202014%20-%20Canadian%20Linguistic%20Association%20Proceedings.pdf){target="_blank"} | Proceedings of the Canadian Linguistic Association
 &nbsp; | [The Prosodic Structure of Canadian Raising](pdf/Onosson%20-%202014%20-%20Canadian%20Linguistic%20Association.pdf){target="_blank"} | Canadian Linguistic Association, Brock University
 &nbsp; | [Analyzing complex vowel articulations from acoustic data](pdf/Onosson%20-%202014%20-%20Cascadia%20Workshop%20in%20Sociolinguistics.pdf){target="_blank"} | Cascadia Workshop in Sociolinguistics, University of Victoria

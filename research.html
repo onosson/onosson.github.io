@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -83,7 +84,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -243,18 +243,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -420,7 +408,7 @@ h1.title {
 </tr>
 <tr class="odd">
 <td> </td>
-<td><a href="pdf/Rosen,%20Onosson,%20Li%20-%202015%20-%20New%20Ways%20of%20Analyzing%20Variation%2044.pdf">There’s a New Ethnolect in Town: Vowel Patterning of Filipino English in Winnipeg</a></td>
+<td><a href="pdf/Rosen,%20Onosson,%20Li%20-%202015%20-%20New%20Ways%20of%20Analyzing%20Variation%2044.pdf" target="_blank">There’s a New Ethnolect in Town: Vowel Patterning of Filipino English in Winnipeg</a></td>
 <td>New Ways of Analyzing Variation 44, University of Toronto</td>
 </tr>
 <tr class="even">
@@ -431,7 +419,7 @@ h1.title {
 <tr class="odd">
 <td> </td>
 <td><a href="pdf/Bird,%20Wang,%20Onosson,%20Benner%20-%202015.pdf" target="_blank">Acoustic Phonetics Lab Manual</a></td>
-<td></td>
+<td>Course textbook, University of Victoria</td>
 </tr>
 <tr class="even">
 <td>2014</td>
@@ -832,6 +820,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
