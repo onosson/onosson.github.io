@@ -60,7 +60,7 @@ I currently have five active research projects:
 
 ### Publications and Presentations
 
-I host archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my CV](pdf/OnossonCV2019.pdf){target="_blank"}:
+I host archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my CV](pdf/OnossonCV.pdf){target="_blank"}:
 
 Year | Title | Journal/Forum
 -|---|---
