@@ -56,7 +56,7 @@ The daily agenda is subject to change as I prepare the workshop, and on a day-by
 * distributions
 * t-tests, ANOVAs
 * linear regression
-* logistic regression
+* generalized linear models
 * linear mixed-effects models
 * generalized additive models
 
