@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -83,7 +84,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -244,18 +244,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -328,6 +316,7 @@ h1.title {
 <p><a href="https://skyonosson.bandcamp.com/" target="_blank">Bandcamp</a> hosts my most recent solo albums, also listed individually below.</p>
 <p><a href="https://soundcloud.com/onosson" target="_blank">Soundcloud</a> has a number of more recent, unfinished, or experimental recordings.</p>
 <p>I tend to put quick musical ideas on <a href="https://instagram.com/sky_onosson" target="_blank">Instagram</a> more often than not.</p>
+<p>Recently I was featured on Jayme Giesbrecht’s “Made in Manitoba” podcast discussing my music career, which you can listen to here: (<a href="https://steinbachonline.com/made-in-mb-podcasts/podcast/made-in-manitoba-sky-onosson" class="uri">https://steinbachonline.com/made-in-mb-podcasts/podcast/made-in-manitoba-sky-onosson</a>)</p>
 <hr />
 </div>
 <div id="discography" class="section level3">
@@ -840,6 +829,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
