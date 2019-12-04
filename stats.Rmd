@@ -53,9 +53,10 @@ The daily agenda is subject to change as I prepare the workshop, and on a day-by
 * data management and manipulation
 * data exploration 
 * plotting
-* descriptive statistics
 * mapping data distribution
+* descriptive statistics
 * t-tests, ANOVAs
+* data transformation
 * linear regression
 * generalized linear models
 * linear mixed-effects models
