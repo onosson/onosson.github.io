@@ -65,7 +65,7 @@ I host archived copies of most of my published or presented work going back to m
 Year | Title | Journal/Forum
 -|---|---
 2020 | The effects of language contact on non-native diphthongs in lexical borrowings: The case of Media Lengua and Quichua (in progress) | Society for Pidgin and Creole Linguistics, New Orleans LA
-&nbsp; | Ethnolinguistic Vowel Differentiation In Winnipeg, Canada (in progress) | American Dialect Society, New Orleans LA
+&nbsp; | [Ethnolinguistic Vowel Differentiation in Manitoba English](pdf/Onosson,%20Rosen%20-%202020%20-%20American%20Dialect%20Society.pdf){target="_blank"} | American Dialect Society, New Orleans LA
 2019 | [Workshop on Statistics for Linguistics](stats.html) (in development) | University of Manitoba
 &nbsp; | [Differences In Vowel-glide Production Between L1 And L2 Speakers Of Hul'q'umi'num'](pdf/Onosson,%20Bird%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
 &nbsp; | [Ethnolinguistic Differentiation and the Canadian Shift](pdf/Onosson,%20Rosen,%20Li%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
