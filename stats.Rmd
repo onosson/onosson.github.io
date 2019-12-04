@@ -23,11 +23,11 @@ library(fontawesome)
 
 ## Workshop on Statistics for Linguistics
 
-**Dates**: Dec. 9, 11, 13 (tentative)
+**Dates**: Dec. 9, 11, 13
 
-**Time**: 10:00am -- 12:00pm (tentative)
+**Time**: 10:00am -- 12:00pm
 
-**Location**: TBA
+**Location**: 214 Tier Building
 
 Welcome to the homepage of the Workshop on Statistics for Linguistics held at the University of Manitoba in December, 2019. This page will provide you with a brief description of what you can expect, and a variety of links and other useful information for your reference.
 
@@ -49,11 +49,12 @@ Other than bringing yourself of course, you will probably want to bring a laptop
 
 The daily agenda is subject to change as I prepare the workshop, and on a day-by-day basis, but should cover roughly the following order of topics. Given time constraints, we may or may not necessarily get through everything!
 
-* review & refresher on R and RStudio including data management, loading files, data manipulation
+* basic usage of R and RStudio
+* data management and manipulation
 * data exploration 
 * plotting
 * descriptive statistics
-* distributions
+* mapping data distribution
 * t-tests, ANOVAs
 * linear regression
 * generalized linear models
