@@ -47,23 +47,79 @@ Other than bringing yourself of course, you will probably want to bring a laptop
 
 ## Agenda
 
-The daily agenda is subject to change as I prepare the workshop, and on a day-by-day basis, but should cover roughly the following order of topics. Given time constraints, we may or may not necessarily get through everything!
+The daily agenda outline below is subject to change on a day-by-day basis. Given time constraints, we may or may not necessarily get through everything!
 
-* basic usage of R and RStudio
-* data management and manipulation
-* data exploration 
-* plotting basics
-* mapping data distribution
-* descriptive statistics
-* vowel plots
-* t-tests, ANOVAs
-* data transformation
-* linear regression
-* generalized linear models
-* linear mixed-effects models
-* generalized additive models
+**List of topics covered by workshop file:**
 
-> **Note:** The source code for each day's discussion, as well as several of the sources listed below, will be available from GitHub -- I will share the specific links for the workshop files closer to the start data. To download any GitHub source code files (including for the books listed further below), go to the appropriate link and click the **Clone or download** button, then select either **Download ZIP** (most users) or **Open in Desktop** (if you already know what you're doing in GitHub).
+### Day One {-}
+
+`Workshop_01_getting_started.Rmd`
+
+* Overview
+* Software Installation
+* The RStudio Environment
+
+`Workshop_02_working_with_data.Rmd`
+
+* The tidyverse
+* Data Visualization (from *R for Data Science*)
+
+`Workshop_03_data_exploration.Rmd`
+
+* Loading data
+* Data exploration
+* Plotting
+
+### Day Two {-}
+
+`Workshop_03_data_exploration.Rmd`
+
+* Plotting
+
+`Workshop_04_workflow.Rmd`
+
+* Create a project
+* Build an R Markdown document
+* Output to .docx
+
+`Workshop_05_vowel_plots.Rmd`
+
+* *Optional*: Vowel plots tutorial by Joey Stanley
+
+`Workshop_06_descriptive_stats.Rmd`
+
+* Descriptive statistics
+* Boxplots
+
+`Workshop_07_distributions.Rmd`
+
+* Normal distributions
+* Testing of distributions: t-tests, ANOVAs
+
+`Workshop_08_linear_models.Rmd`
+
+* Correlation
+* Generalized Linear Models
+
+### Day Three {-}
+
+`Workshop_09_linear_models2.Rmd`
+
+* *Optional*: Linear Models tutorial by Bodo Winter
+
+`Workshop_10_mixed_effects.Rmd`
+
+* Mixed-Effects Modeling
+
+`Workshop_11_pca.Rmd`
+
+* *Optional*: Principal Component Analysis tutorial by Luke Hayden
+
+`Workshop_12_ggpredict.Rmd`
+
+* *Optional*: `ggpredict()` package tutorial by Keon-Woong Moon
+
+> **Note:** The source code for each day's discussion are available in a GitHub repository at **http://github.com/onosson/UM_Workshop**. To download the files click the **Clone or download** button, then select either **Download ZIP** (most users) or **Open in Desktop** (if you already know what you're doing in GitHub).
 
 ---
 
