@@ -96,12 +96,17 @@ The daily agenda outline below is subject to change on a day-by-day basis. Given
 * Normal distributions
 * Testing of distributions: t-tests, ANOVAs
 
+### Day Three {-}
+
+`Workshop_07_distributions.Rmd`
+
+* Normal distributions
+* Testing of distributions: t-tests, ANOVAs
+
 `Workshop_08_linear_models.Rmd`
 
 * Correlation
 * Generalized Linear Models
-
-### Day Three {-}
 
 `Workshop_09_linear_models2.Rmd`
 
