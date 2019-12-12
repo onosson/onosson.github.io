@@ -74,7 +74,7 @@ The daily agenda outline below is subject to change on a day-by-day basis. Given
 
 `Workshop_03_data_exploration.Rmd`
 
-* Plotting
+* Plotting (cont'd)
 
 `Workshop_04_workflow.Rmd`
 
@@ -94,14 +94,13 @@ The daily agenda outline below is subject to change on a day-by-day basis. Given
 `Workshop_07_distributions.Rmd`
 
 * Normal distributions
-* Testing of distributions: t-tests, ANOVAs
+* Testing of distributions: t-tests
 
 ### Day Three {-}
 
 `Workshop_07_distributions.Rmd`
 
-* Normal distributions
-* Testing of distributions: t-tests, ANOVAs
+* Testing of distributions: t-tests (cont'd), ANOVAs
 
 `Workshop_08_linear_models.Rmd`
 
@@ -114,7 +113,7 @@ The daily agenda outline below is subject to change on a day-by-day basis. Given
 
 `Workshop_10_mixed_effects.Rmd`
 
-* Mixed-Effects Modeling
+* Mixed-Effects Modeling tutorial by Bodo Winter
 
 `Workshop_11_pca.Rmd`
 
