@@ -46,7 +46,7 @@ My academic work and research experience includes teaching courses in Linguistic
 
 I currently have five active research projects:
 
-1. [Dr. Nicole Rosen's](https://home.cc.umanitoba.ca/~rosenn/){target="_blank"} Canada Research Chair-funded [*Languages in the Prairies Project*](https://home.cc.umanitoba.ca/~rosenn/sace.html){target="_blank"} (LIPP). My work on LIPP focuses on ethnolinguistic sociophonetic variation in English in Winnipeg, Manitoba, Canada. My research on the LIPP data has led to two conference presentations, one with proceedings to be published; another article is currently being prepared for peer review. My focus within the LIPP corpus is to examine variation in English vowel production across ethnic groups and over time. Our work has so far revealed patterns which suggest the development of an ethnolect within the Filipino ethnic community in Winnipeg, who form a very important demographic component of the city.
+1. [Dr. Nicole Rosen's](https://home.cc.umanitoba.ca/~rosenn/){target="_blank"} Canada Research Chair-funded [*Languages in the Prairies Project*](https://home.cc.umanitoba.ca/~rosenn/sace.html){target="_blank"} (LIPP). My work on LIPP focuses on ethnolinguistic sociophonetic variation in English in Winnipeg, Manitoba, Canada. My research on the LIPP data has led to two conference presentations, including one published proceedings (ICPhS19), while an article is currently being prepared for peer review. My focus within the LIPP corpus is to examine variation in English vowel production across ethnic groups and over time. Our work has so far revealed patterns which suggest the development of an ethnolect within the Filipino ethnic community in Winnipeg, who form a very important demographic component of the city.
 
 1. Investigation of production differences in diphthongs across North American dialects. This work stems from my M.A. and Ph.D. graduate work, which focused largely on "Canadian Raising" of the /aj/ and /aw/ diphthongs before voiceless codas. I am interested in the ways that different dialects handle pre-voiceless shortening in general, and how this plays out in the context of what are perceived as "raised" diphthongal nuclei.
 
@@ -62,11 +62,11 @@ I currently have five active research projects:
 
 I host archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my CV](pdf/OnossonCV.pdf){target="_blank"}:
 
-Year | Title | Journal/Forum
+Year | Title | Journal/Forum/Venue
 -|---|---
 2020 | The effects of language contact on non-native diphthongs in lexical borrowings: The case of Media Lengua and Quichua (in progress) | Society for Pidgin and Creole Linguistics, New Orleans LA
 &nbsp; | [Ethnolinguistic Vowel Differentiation in Manitoba English](pdf/Onosson,%20Rosen%20-%202020%20-%20American%20Dialect%20Society.pdf){target="_blank"} | American Dialect Society, New Orleans LA
-2019 | [Workshop on Statistics for Linguistics](stats.html) (in development) | University of Manitoba
+2019 | [Workshop on Statistics for Linguistics](https://github.com/onosson/UM_Workshop) | University of Manitoba
 &nbsp; | [Differences In Vowel-glide Production Between L1 And L2 Speakers Of Hul'q'umi'num'](pdf/Onosson,%20Bird%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
 &nbsp; | [Ethnolinguistic Differentiation and the Canadian Shift](pdf/Onosson,%20Rosen,%20Li%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
 &nbsp; | [Acoustic Phonetics and Language Revitalization in the Hul’q’umi’num’ Community](pdf/Onosson%20-%202019%20-%20Prairie%20Workshop%20on%20Languages%20and%20Linguistics%20V.pdf){target="_blank"} | Prairie Workshop on Languages and Linguistics V, University of Winnipeg
