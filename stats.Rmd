@@ -17,9 +17,24 @@ library(fontawesome)
 
 <br>
 
-<img src="images/ice.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right">
-
 <big>
+
+# Coming Soon:
+
+<br>
+
+<img src="images/Rlogo.png" style="width:14%" align="left">
+
+<img src="images/PraatLogo.png" style="width:12%; margin-left: 25px" align="left">
+
+<img src="images/LaTeXlogo.png" style="width:30%; margin-left: 25px" align="left">
+
+<br><br><br><br><br><br>
+
+* We are working on plans for a **R/Praat/LaTeX Coding Discussion Group** for the Linguistics Department to take place in 2020
+* If you are interested in participating, please email me at <sky@onosson.com>
+
+---
 
 ## Workshop on Statistics for Linguistics
 
