@@ -6,8 +6,8 @@ navbar:
   left:
     - text: "Research"
       href: research.html
-    - text: "Workshop on Statistics for Linguistics"
-      href: stats.html
+    - text: "Coding Discussion Group"
+      href: group.html
   right:
     - text: "Music"
       href: music.html

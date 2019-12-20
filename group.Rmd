@@ -1,5 +1,5 @@
 ---
-title: "Workshop on Statistics for Linguistics"
+title: "Coding Discussion Group -- University of Manitoba"
 output:
   html_document
 ---
@@ -35,6 +35,8 @@ library(fontawesome)
 * If you are interested in participating, please email me at <sky@onosson.com>
 
 ---
+
+# ARCHIVE
 
 ## Workshop on Statistics for Linguistics
 
