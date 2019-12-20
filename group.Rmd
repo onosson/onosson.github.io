@@ -31,7 +31,7 @@ library(fontawesome)
 
 <br><br><br><br><br><br>
 
-* We are working on plans for a **R/Praat/LaTeX Coding Discussion Group** for the Linguistics Department to take place in 2020
+* We are working on plans for a **R/Praat/LaTeX Coding Discussion Group** for the Linguistics Department at the University of Manitoba, to take place in 2020
 * If you are interested in participating, please email me at <sky@onosson.com>
 
 ---
