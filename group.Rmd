@@ -29,7 +29,7 @@ library(fontawesome)
 
 <img src="images/LaTeXlogo.png" style="width:30%; margin-left: 25px" align="left">
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 * Plans are currently in the works for a **Coding Discussion Group** for the Linguistics Department at the University of Manitoba, to take place in 2020
 * Discussions will concern various aspects of the use of code-based software such as R, Praat, and LaTeX in linguistic research
