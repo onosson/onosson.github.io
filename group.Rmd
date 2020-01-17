@@ -19,9 +19,9 @@ library(fontawesome)
 
 <big>
 
-# Coming Soon:
+### *Coming Soon:*
 
-<br>
+# Coding Discussion Group
 
 <img src="images/Rlogo.png" style="width:14%" align="left">
 
@@ -29,151 +29,57 @@ library(fontawesome)
 
 <img src="images/LaTeXlogo.png" style="width:30%; margin-left: 25px" align="left">
 
-<br><br><br><br><br><br>
+<br><br><br><br>
 
-* We are working on plans for a **R/Praat/LaTeX Coding Discussion Group** for the Linguistics Department at the University of Manitoba, to take place in 2020
-* If you are interested in participating, please email me at <sky@onosson.com>
-
----
-
-# ARCHIVE
-
-## Workshop on Statistics for Linguistics
-
-**Dates**: Dec. 9, 11, 13
-
-**Time**: 10:00am -- 12:00pm
-
-**Location**: 214 Tier Building
-
-Welcome to the homepage of the Workshop on Statistics for Linguistics held at the University of Manitoba in December, 2019. This page will provide you with a brief description of what you can expect, and a variety of links and other useful information for your reference.
-
-### Who is the workshop for?
-
-This workshop is for people who have *"some background in R"*, such as writing up code, loading data, and printing plots and graphs. This does not need to be extensive experience, and we will have time to review & refresh your knowledge at the beginning, or throughout as necessary. We are expecting between 12--15 people, although that may change.
-
-### What will the workshop cover?
-
-The workshop is intended to cover the use of the R programming language to carry out testing of statistical models for the analysis of quantitative linguistic data (hence the title of the workshop), although we will probably look at examples using other data as well, because the tests themselves don't care where the data comes from or what it's about.
-
-### What will I need for the workshop?
-
-Other than bringing yourself of course, you will probably want to bring a laptop with R and RStudio installed. Choice of operating system shouldn't be that important, but I'll be using a Mac if anyone cares. I will be running the workshop via my laptop projected on the screen, and you can just observe if you like, but you're probably not going to get the most out of the workshop that way, so I'm going to just assume everyone will be bringing a functioning laptop.
+* Plans are currently in the works for a **Coding Discussion Group** for the Linguistics Department at the University of Manitoba, to take place in 2020
+* Discussions will concern various aspects of the use of code-based software such as R, Praat, and LaTeX in linguistic research
+* Anyone who is interested in participating should email me at <sky@onosson.com>
+* Once we have a concrete schedule established, it will be posted here and distributed by email through the LING-Listserv mailing list
 
 ---
 
-## Agenda
+# Resources
 
-The daily agenda outline below is subject to change on a day-by-day basis. Given time constraints, we may or may not necessarily get through everything!
-
-**List of topics covered by workshop file:**
-
-### Day One {-}
-
-`Workshop_01_getting_started.Rmd`
-
-* Overview
-* Software Installation
-* The RStudio Environment
-
-`Workshop_02_working_with_data.Rmd`
-
-* The tidyverse
-* Data Visualization (from *R for Data Science*)
-
-`Workshop_03_data_exploration.Rmd`
-
-* Loading data
-* Data exploration
-* Plotting
-
-### Day Two {-}
-
-`Workshop_03_data_exploration.Rmd`
-
-* Plotting (cont'd)
-
-`Workshop_04_workflow.Rmd`
-
-* Create a project
-* Build an R Markdown document
-* Output to .docx
-
-`Workshop_05_vowel_plots.Rmd`
-
-* *Optional*: Vowel plots tutorial by Joey Stanley
-
-`Workshop_06_descriptive_stats.Rmd`
-
-* Descriptive statistics
-* Boxplots
-
-`Workshop_07_distributions.Rmd`
-
-* Normal distributions
-* Testing of distributions: t-tests
-
-### Day Three {-}
-
-`Workshop_07_distributions.Rmd`
-
-* Testing of distributions: t-tests (cont'd), ANOVAs
-
-`Workshop_08_linear_models.Rmd`
-
-* Correlation
-* Generalized Linear Models
-
-`Workshop_09_linear_models2.Rmd`
-
-* *Optional*: Linear Models tutorial by Bodo Winter
-
-`Workshop_10_mixed_effects.Rmd`
-
-* Mixed-Effects Modeling tutorial by Bodo Winter
-
-`Workshop_11_pca.Rmd`
-
-* *Optional*: Principal Component Analysis tutorial by Luke Hayden
-
-`Workshop_12_ggpredict.Rmd`
-
-* *Optional*: `ggpredict()` package tutorial by Keon-Woong Moon
-
-> **Note:** The source code for each day's discussion are available in a GitHub repository at **http://github.com/onosson/UM_Workshop**. To download the files click the **Clone or download** button, then select either **Download ZIP** (most users) or **Open in Desktop** (if you already know what you're doing in GitHub).
+Below are sets of resources on a variety of coding topics which you may find useful, divided according to type. I will try to update this list frequently.
 
 ---
 
 ## Software
 
-It would be helpful if everyone downloaded and installed both **R** and **RStudio** prior to the first day, although if you do have issues with that we can try and sort them out on the first day.
-
-* **R**: **https://muug.ca/mirror/cran/** <br> Download the appropriate version for your operating system.
-
-* **RStudio**: **https://rstudio.com/products/rstudio/download/** <br> Get the free Desktop version for your OS, unless you have a spare $1K per year, or feel like running a server?
-
-* **RStudio Cheat Sheets**: **https://rstudio.com/resources/cheatsheets/**
-<br> These are a great resource to keep on hand for quick reference; I recommend the *RStudio IDE*, *Base R*, *Data Transformation* and *Data Visualization* Cheat Sheets for anyone getting started.
+* R: https://muug.ca/mirror/cran/
+* RStudio: https://rstudio.com/products/rstudio/download/
+* Praat: http://www.fon.hum.uva.nl/praat
+* LaTeX: https://www.latex-project.org/get/
 
 ---
 
-## Books & other resources
+## Books (online) & pdfs
 
-Any resources I plan to use will be incorporated into the workshop files which I will make available as we go along. The following list includes these as well as some others which I have looked at in building this workshop. Some of these have source code available, which you may find useful in working through things on your own in R Markdown.
+* RStudio CheatSheets: https://rstudio.com/resources/cheatsheets/
+* R for Data Science: https://r4ds.had.co.nz/ <br> Source code: https://github.com/hadley/r4ds
+* Hands-On Programming with R: https://rstudio-education.github.io/hopr/
+* Data Skills for Reproducible Science: https://psyteachr.github.io/msc-data-skills/
+* Data wrangling, exploration, and analysis with R: https://stat545.com/index.html <br> Source code: https://github.com/rstudio-education/stat545
+* Quantitative Methods for Linguistic Data: http://people.linguistics.mcgill.ca/~morgan/book/ <br> Source code: https://github.com/mlml/stats_book
 
-* **R for Data Science (R4ds)**: **https://r4ds.had.co.nz/** <br> *Source code*: **https://github.com/hadley/r4ds** <br> This is co-written by Hadley Wickham, who is the author of the *tidyverse* family of R packages, and is an excellent reference which we will be using in the workshop. This book is also available in print, which is not free unlike the online version, and is also not updated as frequently.
+---
 
-* **Quantitative Methods for Linguistic Data**: **http://people.linguistics.mcgill.ca/~morgan/book/** <br> *Source code*: **https://github.com/mlml/stats_book** <br> This book assumes a lot more background in stats, but it does deal specifically with application to linguistic data, and common types of statistical analysis in our field; I may end up including elements of this book towards the end of the workshop.
+## Scripts and scripting resources
 
-* **Data Skills for Reproducible Science**: **https://psyteachr.github.io/msc-data-skills/** <br> This is an excellent coursebook developed for psychology students, but the methods introduced and discussed are compatible with linguistic research. Unfortunately, the source code does not appear to be available to the public.
+* GitHub: https://github.com/ <br> Desktop software application: https://desktop.github.com/
+* FAVE: https://github.com/JoFrhwld/FAVE
+* Overleaf (online LaTeX editor): https://www.overleaf.com/
+* SpeCT - The Speech Corpus Toolkit for Praat: https://lennes.github.io/spect/
+* Praat Vocal Toolkit: http://www.praatvocaltoolkit.com
+* PraatR: http://www2.kobe-u.ac.jp/~albin/praatr/index.html
 
-* **Data wrangling, exploration, and analysis with R**: **https://stat545.com/index.html** <br> *Source code*: **https://github.com/rstudio-education/stat545** <br> This book is focused on data management and exploration but *not* on statistical analysis; however, I may use some parts of this in the workshop if I feel it's appropriate or would be helpful as we go along.
+---
 
-* **Hands-On Programming with R**: **https://rstudio-education.github.io/hopr/** <br> This book is written by Garrett Grolemund, co-author of R for Data Science. It is aimed as a more basic introduction to R, and includes a lot of topics we won't address in this workshop.
+## Websites, video tutorials, etc.
 
-* While I won't get into working with Git directly during the workshop, if you are interested in taking this a step further, you might want to set up a **GitHub** account for yourself over at **https://github.com/** and download their desktop software **https://desktop.github.com/** (there are other alternatives, but this is what I use for better or worse). And here is a good guide to getting Git and RStudio to play nicely with each other: **https://happygitwithr.com/**
-
-* Any additional files which I plan to include in the workshop will appear in this list.
-
+* Statistics Canada: https://www12.statcan.gc.ca/census-recensement/index-eng.cfm
+* Joey Stanley (Linguistics): http://joeystanley.com/index
+* Marissa Barlaz (Linguistics): https://marissabarlaz.github.io
+* Brandon Foltz (Statistics etc.): https://www.youtube.com/user/BCFoltz/playlists
 
 </big>
