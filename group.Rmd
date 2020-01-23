@@ -1,5 +1,5 @@
 ---
-title: "Coding Discussion Group -- University of Manitoba"
+title: "Coding for Linguistics Discussion Group -- University of Manitoba"
 output:
   html_document
 ---
@@ -19,7 +19,7 @@ library(fontawesome)
 
 <big>
 
-# Coding Discussion Group
+# Coding for Linguistics Discussion Group
 
 <img src="images/Rlogo.png" style="width:14%" align="left">
 
@@ -29,9 +29,9 @@ library(fontawesome)
 
 <br><br><br><br><br><br>
 
-I'm pleased to be directing the upcoming **Coding Discussion Group** for the Linguistics Department at the University of Manitoba, to take place in 2020:
+I'm pleased to be directing the upcoming **Coding for Linguistics Discussion Group** for the Linguistics Department at the University of Manitoba, to take place in 2020:
 
-* Discussions will concern various aspects of the use of code-based software such as R, Praat, and LaTeX in linguistic research
+* Meetings will be based around discussing various aspects of the use of code-based software such as R, Praat, and LaTeX in linguistic research
 * Anyone who is interested in participating should email me at <sky@onosson.com>
 * Once we have a concrete schedule established, it will be posted here and distributed by email through the LING-Listserv mailing list
 
@@ -39,7 +39,7 @@ I'm pleased to be directing the upcoming **Coding Discussion Group** for the Lin
 
 # Schedule
 
-We have tentatively established the upcoming meeting dates as:
+We have tentatively established the upcoming monthly meeting dates as:
 
 * February: Friday the 7th, 10:30--12;30
 * March: Monday the 2nd, 12:30--2:30 
@@ -88,7 +88,7 @@ Below are sets of resources on a variety of coding and related topics which you 
 
 ---
 
-## Scripts and scripting resources
+## Scripts and scripting resources (including code-based tutorials)
 
 * GitHub: https://github.com/ <br> Desktop software application: https://desktop.github.com/
 * FAVE: https://github.com/JoFrhwld/FAVE
@@ -96,14 +96,20 @@ Below are sets of resources on a variety of coding and related topics which you 
 * SpeCT - The Speech Corpus Toolkit for Praat: https://lennes.github.io/spect/
 * Praat Vocal Toolkit: http://www.praatvocaltoolkit.com
 * PraatR: http://www2.kobe-u.ac.jp/~albin/praatr/index.html
+* Joey Stanley (Linguistics tutorials on R coding and more): http://joeystanley.com/resources
+* Lukasz Piwek's Tufte in R (minimalist plotting): http://motioninsocial.com/tufte/
+* practicalgg (plot development): https://wilkelab.org/practicalgg/
+* Designing ggplots (plot development) https://designing-ggplots.netlify.com/
+* Marissa Barlaz (coding tutorials for Linguistics in R and LaTeX): https://marissabarlaz.github.io
+* Selva Prabhakaran (statistics for R): http://r-statistics.co
+* Jacolien van Rij's GAMMs tutorial: https://jacolienvanrij.com/Tutorials/GAMM.html
 
 ---
 
-## Websites, video tutorials, etc.
+## Other (websites, video tutorials, etc.)
 
 * Statistics Canada: https://www12.statcan.gc.ca/census-recensement/index-eng.cfm
-* Joey Stanley (Linguistics): http://joeystanley.com/index
-* Marissa Barlaz (Linguistics): https://marissabarlaz.github.io
-* Brandon Foltz (Statistics etc.): https://www.youtube.com/user/BCFoltz/playlists
+* QGIS "Create, edit, visualise, analyse and publish geospatial information": https://qgis.org/en/site/
+* Brandon Foltz (general statistics etc.): https://www.youtube.com/user/BCFoltz/playlists
 
 </big>
