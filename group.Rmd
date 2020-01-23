@@ -31,16 +31,42 @@ library(fontawesome)
 
 <br><br><br><br><br><br>
 
-* Plans are currently in the works for a **Coding Discussion Group** for the Linguistics Department at the University of Manitoba, to take place in 2020
+Plans are currently in the works for a **Coding Discussion Group** for the Linguistics Department at the University of Manitoba, to take place in 2020
+
 * Discussions will concern various aspects of the use of code-based software such as R, Praat, and LaTeX in linguistic research
 * Anyone who is interested in participating should email me at <sky@onosson.com>
 * Once we have a concrete schedule established, it will be posted here and distributed by email through the LING-Listserv mailing list
 
 ---
 
+# Schedule
+
+We have tentatively established the upcoming meeting dates as:
+
+* Friday, Feb. 7, 10:30--12;30
+* Monday, Mar. 2, 12:30--2:30 
+* Monday, Apr. 6, 12:30--2:30
+
+---
+
+# Agenda
+
+For the first meeting on Feb. 7, I have picked the theme of "vowel plotting". This is a topic we explored as part of one of the workshop meetings in December, but there are many more aspects which we can look at including:
+
+* organizing/tidying data
+* subsetting (e.g. by phonological context)
+* normalization procedures
+* formant trajectories
+* GAMMs analysis
+* etc.!
+
+I will have some resources prepared for the meeting related to this theme. Also, please don't hesitate to bring in any questions/problems/topics you would like to discuss, even if they are not connected to the theme.
+
+---
+
 # Resources
 
-Below are sets of resources on a variety of coding topics which you may find useful, divided according to type. I will try to update this list frequently.
+Below are sets of resources on a variety of coding and related topics which you may find useful, divided according to type. I will try to update this list frequently.
 
 ---
 
