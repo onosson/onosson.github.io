@@ -19,8 +19,6 @@ library(fontawesome)
 
 <big>
 
-### *Coming Soon:*
-
 # Coding Discussion Group
 
 <img src="images/Rlogo.png" style="width:14%" align="left">
@@ -31,7 +29,7 @@ library(fontawesome)
 
 <br><br><br><br><br><br>
 
-Plans are currently in the works for a **Coding Discussion Group** for the Linguistics Department at the University of Manitoba, to take place in 2020
+I'm pleased to be directing the upcoming **Coding Discussion Group** for the Linguistics Department at the University of Manitoba, to take place in 2020:
 
 * Discussions will concern various aspects of the use of code-based software such as R, Praat, and LaTeX in linguistic research
 * Anyone who is interested in participating should email me at <sky@onosson.com>
@@ -43,9 +41,9 @@ Plans are currently in the works for a **Coding Discussion Group** for the Lingu
 
 We have tentatively established the upcoming meeting dates as:
 
-* Friday, Feb. 7, 10:30--12;30
-* Monday, Mar. 2, 12:30--2:30 
-* Monday, Apr. 6, 12:30--2:30
+* February: Friday the 7th, 10:30--12;30
+* March: Monday the 2nd, 12:30--2:30 
+* April: Monday the 6th, 12:30--2:30
 
 ---
 
