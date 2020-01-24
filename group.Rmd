@@ -29,21 +29,22 @@ library(fontawesome)
 
 <br><br><br><br><br><br>
 
-I'm pleased to be directing the upcoming **Coding for Linguistics Discussion Group** for the Linguistics Department at the University of Manitoba, to take place in 2020:
+I'm pleased to be directing the **Coding for Linguistics Discussion Group** for the Linguistics Department at the University of Manitoba:
 
 * Meetings will be based around discussing various aspects of the use of code-based software such as R, Praat, and LaTeX in linguistic research
-* Anyone who is interested in participating should email me at <sky@onosson.com>
-* Once we have a concrete schedule established, it will be posted here and distributed by email through the LING-Listserv mailing list
+* To join our mailing list please email me at <sky@onosson.com>
 
 ---
 
 # Schedule
 
-We have tentatively established the upcoming monthly meeting dates as:
+We have tentatively established the upcoming monthly meeting dates as follows -- note that we do not have a permanent location established yet, so things may have to change after February:
 
-* February: Friday the 7th, 10:30--12;30
-* March: Monday the 2nd, 12:30--2:30 
-* April: Monday the 6th, 12:30--2:30
+Date | Time | Location
+-|-|-
+Friday, **February 7th** | 10:30--12:30 | 409 Tier
+Monday, **March 2nd** *(tentative)* | 12:30--2:30 | TBA
+Monday, **April 6th** *(tentative)* | 12:30--2:30 | TBA
 
 ---
 
@@ -58,7 +59,7 @@ For the first meeting on Feb. 7, I have picked the theme of "vowel plotting". Th
 * GAMMs analysis
 * etc.!
 
-I will have some resources prepared for the meeting related to this theme. Also, please don't hesitate to bring in any questions/problems/topics you would like to discuss, even if they are not connected to the theme.
+I will have some resources prepared related to this theme. That being said, please don't hesitate to bring in any questions/problems/topics you would like to discuss, even if they are not connected to the theme.
 
 ---
 
