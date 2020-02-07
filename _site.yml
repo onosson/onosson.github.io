@@ -6,8 +6,6 @@ navbar:
   left:
     - text: "Research"
       href: research.html
-    - text: "Coding Group at U. Manitoba"
-      href: group.html
   right:
     - text: "Music"
       href: music.html
