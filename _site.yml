@@ -6,8 +6,6 @@ navbar:
   left:
     - text: "Research"
       href: research.html
-    - text: "Coding Group"
-      href: UM_Discussion_Group
   right:
     - text: "Music"
       href: music.html
