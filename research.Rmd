@@ -23,9 +23,15 @@ library(fontawesome)
 
 <big>
 
-## Linguistics
+## Linguistics [`r fa("github", height=25,fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", height=25, fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin",height=25, fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
 
 My research in linguistics revolves around the fields of acoustic phonetics, sociolinguistics, and articulatory phonology, with a dash of computational linguistics, which I see as a pretty natural and necessary connection in this day and age. A lot of my work has looked at the dynamic properties of vowel production, such as diphthongs, from both phonetic and phonological points of view.
+
+The information on this page is the best compendium of my research, both active and historical, but there are also a few sites which I maintain for other purposes:
+
+* I have an increasingly-active profile on [GitHub](https://github.com/onosson){target="_blank"}
+* My [ResearchGate](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} page contains the same publications/presentations listed below, although updates may lag behind this site
+* I also try to keep [LinkedIn](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} updated, although probably less diligently
 
 ---
 
