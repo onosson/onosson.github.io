@@ -1,7 +1,0 @@
----
-title: "Coding Discussion Group"
-output:
-  html_document
----
-
-This content has been moved to: https://github.com/onosson/UM_Discussion_Group

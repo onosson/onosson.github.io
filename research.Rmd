@@ -23,7 +23,7 @@ library(fontawesome)
 
 <big>
 
-## Linguistics [`r fa("github", height=25,fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", height=25, fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin",height=25, fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
+## Linguistics [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin", fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
 
 My research in linguistics revolves around the fields of acoustic phonetics, sociolinguistics, and articulatory phonology, with a dash of computational linguistics, which I see as a pretty natural and necessary connection in this day and age. A lot of my work has looked at the dynamic properties of vowel production, such as diphthongs, from both phonetic and phonological points of view.
 
