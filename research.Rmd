@@ -72,7 +72,8 @@ This site hosts archived copies of most of my published or presented work going 
 
 Year | Title | Journal/Forum/Venue
 -|---|---
-2020 | [The effects of language contact on non-native diphthongs in lexical borrowings: The case of Media Lengua](pdf/Onosson,%20Stewart%20-%202020%20-%20Society%20for%20Pidgin%20and%20Creole%20Linguistics.pdf){target="_blank"} | Society for Pidgin and Creole Linguistics, New Orleans LA
+2020 | TRAP-raising and the Canadian/Low-Back-Merger Shift in Prairie English  (accepted) | Canadian Linguistic Association, Western University
+&nbsp; | [The effects of language contact on non-native diphthongs in lexical borrowings: The case of Media Lengua](pdf/Onosson,%20Stewart%20-%202020%20-%20Society%20for%20Pidgin%20and%20Creole%20Linguistics.pdf){target="_blank"} | Society for Pidgin and Creole Linguistics, New Orleans LA
 &nbsp; | [Ethnolinguistic Vowel Differentiation in Manitoba English](pdf/Onosson,%20Rosen%20-%202020%20-%20American%20Dialect%20Society.pdf){target="_blank"} | American Dialect Society, New Orleans LA
 2019 | [Workshop on Statistics for Linguistics](https://github.com/onosson/UM_Workshop){target="_blank"} | University of Manitoba
 &nbsp; | [Differences In Vowel-glide Production Between L1 And L2 Speakers Of Hul'q'umi'num'](pdf/Onosson,%20Bird%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
