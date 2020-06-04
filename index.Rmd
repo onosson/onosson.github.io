@@ -19,7 +19,7 @@ library(fontawesome)
 
 <br>
 
-<img src="images/me_rio.jpg" style="width:35%; border:8px solid; margin-right: 25px" align="right">
+<img src="images/hands.jpg" style="width:20%; border:8px solid; margin-right: 25px" align="right">
 
 <big>
 
