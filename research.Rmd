@@ -72,33 +72,35 @@ This site hosts archived copies of most of my published or presented work going 
 
 Year | Title | Journal/Forum/Venue
 -|---|---
-2020 | The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua | Submitted to Language and Speech
-&nbsp; | Prevelar front vowel merger in Winnipeg English | In preparation
-&nbsp; | Canadian Shift amidst demographic shift: Ethnolinguistic effects in Western Canadian English vowels | In preparation
-&nbsp; | A phonetic investigation of Tŝilhqot’in /z/ and /zʕ/ | In preparation
+2020 | The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua (with Jesse Stewart) | Submitted to Language and Speech
+&nbsp; | Prevelar front-vowel merger in Winnipeg English | Submitted to Journal of English Linguistics
+&nbsp; | Canadian Shift amidst demographic shift: Ethnolinguistic effects in Western Canadian English vowels (with Nicole Rosen) | In preparation
+&nbsp; | A phonetic investigation of Tŝilhqot’in /z/ and /zʕ/ (with Sonya Bird) | In preparation
+&nbsp; | Suppressing biases in correlate identification in acoustic data: The case of Media Lengua (with Jesse Stewart) | In preparation
 &nbsp; | The interaction of yod retention with /u/-fronting in Victoria | In preparation
-&nbsp; | Functional differentiation of tipo in Brazilian Portuguese: Grammaticalization in progress | In preparation
-&nbsp; | [The effects of language contact on non-native diphthongs in lexical borrowings: The case of Media Lengua](pdf/Onosson,%20Stewart%20-%202020%20-%20Society%20for%20Pidgin%20and%20Creole%20Linguistics.pdf){target="_blank"} | Society for Pidgin and Creole Linguistics, New Orleans LA
+&nbsp; | Functional differentiation of tipo in Brazilian Portuguese: Grammaticalization in progress (with Christiani Thompson) | In preparation
+&nbsp; | Topicalization in Brazilian Portuguese: Subject-doubling constructions (with Christiani Thompson) | In preparation
+&nbsp; | [The effects of language contact on non-native diphthongs in lexical borrowings: The case of Media Lengua](pdf/Onosson,%20Stewart%20-%202020%20-%20Society%20for%20Pidgin%20and%20Creole%20Linguistics.pdf){target="_blank"} (with Jesse Stewart) | Society for Pidgin and Creole Linguistics, New Orleans LA
 &nbsp; | [Ethnolinguistic Vowel Differentiation in Manitoba English](pdf/Onosson,%20Rosen%20-%202020%20-%20American%20Dialect%20Society.pdf){target="_blank"} | American Dialect Society, New Orleans LA
 &nbsp;  | TRAP-raising and the Canadian/Low-Back-Merger Shift in Prairie English  (accepted--did not present due to Covid19) | Canadian Linguistic Association, Western University
 2019 | [Workshop on Statistics for Linguistics](https://github.com/onosson/UM_Workshop){target="_blank"} | University of Manitoba
-&nbsp; | [Differences In Vowel-glide Production Between L1 And L2 Speakers Of Hul'q'umi'num'](pdf/Onosson,%20Bird%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
-&nbsp; | [Ethnolinguistic Differentiation and the Canadian Shift](pdf/Onosson,%20Rosen,%20Li%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} | International Congress of Phonetic Sciences, Melbourne
-&nbsp; | [Acoustic Phonetics and Language Revitalization in the Hul’q’umi’num’ Community](pdf/Onosson%20-%202019%20-%20Prairie%20Workshop%20on%20Languages%20and%20Linguistics%20V.pdf){target="_blank"} | Prairie Workshop on Languages and Linguistics V, University of Winnipeg
-2018 | [An Acoustic Study of Canadian Raising in Three Dialects of North American English](pdf/Onosson%20-%202018%20-%20PhD%20Dissertation.pdf){target="_blank"} | Ph.D. dissertation, the University of Victoria
-&nbsp; | [Joining the Western Region: Sociophonetic Shift in Victoria](pdf/Roeder,%20Onosson,%20D'Arcy%20-%202018%20-%20Journal%20of%20English%20Linguistics.pdf){target="_blank"} | Journal of English Linguistics
+&nbsp; | [Differences In Vowel-glide Production Between L1 And L2 Speakers Of Hul'q'umi'num'](pdf/Onosson,%20Bird%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} (with Sonya Bird) | International Congress of Phonetic Sciences, Melbourne
+&nbsp; | [Ethnolinguistic Differentiation and the Canadian Shift](pdf/Onosson,%20Rosen,%20Li%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"} (with Nicole Rosen and Lanlan Li) | International Congress of Phonetic Sciences, Melbourne
+&nbsp; | [Acoustic Phonetics and Language Revitalization in the Hul’q’umi’num’ Community](pdf/Onosson%20-%202019%20-%20Prairie%20Workshop%20on%20Languages%20and%20Linguistics%20V.pdf){target="_blank"} (with Sonya Bird) | Prairie Workshop on Languages and Linguistics V, University of Winnipeg
+2018 | [An Acoustic Study of Canadian Raising in Three Dialects of North American English](pdf/Onosson%20-%202018%20-%20PhD%20Dissertation.pdf){target="_blank"} | Doctoral dissertation, the University of Victoria
+&nbsp; | [Joining the Western Region: Sociophonetic Shift in Victoria](pdf/Roeder,%20Onosson,%20D'Arcy%20-%202018%20-%20Journal%20of%20English%20Linguistics.pdf){target="_blank"} (with Rebecca Roeder and Alex D'Arcy) | Journal of English Linguistics
 &nbsp; | [Best practices in automatic vowel production analysis](pdf/Roeder,%20Onosson%20-%202018%20-%20Sociolinguistics%20Symposium%2022.pdf){target="_blank"} | Sociolinguistics Symposium 22, University of Auckland
 2017 | [Canadian Raising or Canadian Shortening? Comparing and contrasting dynamic models of vowel duration](pdf/Onosson%20-%202017%20-%20Chicago%20Workshop%20on%20Dynamic%20Modeling%20in%20Phonetics%20and%20Phonology.pdf){target="_blank"} | Workshop on Dynamic Modeling in Phonetics & Phonology, University of Chicago
 2016 | [Yod variation in Victoria, B.C.: An acoustic-centred approach](pdf/Onosson%20-%202016%20-%20American%20Dialect%20Society.pdf){target="_blank"} | American Dialect Society, Washington DC
-&nbsp; | [Urban youth in Rio de Janeiro: Contemporary linguistic variation in Brazilian Portuguese](pdf/Thompson,%20Onosson%20-%202016%20-%20New%20Ways%20of%20Analyzing%20Variation%2045.pdf){target="_blank"} | New Ways of Analyzing Variation 45, Simon Fraser University
-2015 | [Simultaneous Innovation & Conservation: Unpacking Victoria's Vowels](pdf/Onosson,%20Roeder,%20D'Arcy%20-%202015%20-%20New%20Ways%20of%20Analyzing%20Variation%2044.pdf){target="_blank"} | New Ways of Analyzing Variation 44, University of Toronto
-&nbsp; | [There's a New Ethnolect in Town: Vowel Patterning of Filipino English in Winnipeg](pdf/Rosen,%20Onosson,%20Li%20-%202015%20-%20New%20Ways%20of%20Analyzing%20Variation%2044.pdf){target="_blank"} | New Ways of Analyzing Variation 44, University of Toronto
-&nbsp; | [City, province or region: What do the vowels of Victoria tell us?](pdf/Onosson,%20Roeder,%20D'Arcy%20-%202015%20-%20American%20Dialect%20Society.pdf){target="_blank"} | American Dialect Society, Portland OR
-&nbsp; | [Acoustic Phonetics Lab Manual](pdf/Bird,%20Wang,%20Onosson,%20Benner%20-%202015.pdf){target="_blank"} | Course textbook, University of Victoria
+&nbsp; | [Urban youth in Rio de Janeiro: Contemporary linguistic variation in Brazilian Portuguese](pdf/Thompson,%20Onosson%20-%202016%20-%20New%20Ways%20of%20Analyzing%20Variation%2045.pdf){target="_blank"} (with Christiani Thompson) | New Ways of Analyzing Variation 45, Simon Fraser University
+2015 | [Simultaneous Innovation & Conservation: Unpacking Victoria's Vowels](pdf/Onosson,%20Roeder,%20D'Arcy%20-%202015%20-%20New%20Ways%20of%20Analyzing%20Variation%2044.pdf){target="_blank"} (with Rebecca Roeder and Alex D'Arcy) | New Ways of Analyzing Variation 44, University of Toronto
+&nbsp; | [There's a New Ethnolect in Town: Vowel Patterning of Filipino English in Winnipeg](pdf/Rosen,%20Onosson,%20Li%20-%202015%20-%20New%20Ways%20of%20Analyzing%20Variation%2044.pdf){target="_blank"} (with Nicole Rosen and Lanlan Li) | New Ways of Analyzing Variation 44, University of Toronto
+&nbsp; | [City, province or region: What do the vowels of Victoria tell us?](pdf/Onosson,%20Roeder,%20D'Arcy%20-%202015%20-%20American%20Dialect%20Society.pdf){target="_blank"} (with Rebecca Roeder and Alex D'Arcy) | American Dialect Society, Portland OR
+&nbsp; | [Acoustic Phonetics Lab Manual](pdf/Bird,%20Wang,%20Onosson,%20Benner%20-%202015.pdf){target="_blank"} (with Sonya Bird, Qian Wang and Allison Benner) | Course textbook, University of Victoria
 2014 | [The Prosodic Structure of Canadian Raising](pdf/Onosson%20-%202014%20-%20Canadian%20Linguistic%20Association%20Proceedings.pdf){target="_blank"} | Proceedings of the Canadian Linguistic Association
 &nbsp; | [The Prosodic Structure of Canadian Raising](pdf/Onosson%20-%202014%20-%20Canadian%20Linguistic%20Association.pdf){target="_blank"} | Canadian Linguistic Association, Brock University
 &nbsp; | [Analyzing complex vowel articulations from acoustic data](pdf/Onosson%20-%202014%20-%20Cascadia%20Workshop%20in%20Sociolinguistics.pdf){target="_blank"} | Cascadia Workshop in Sociolinguistics, University of Victoria
-&nbsp; | [Finding our voice: A primer on the Manitoba dialect (interview)](pdf/Sanderson%20-%202014%20-%20Winnipeg%20Free%20Press.pdf){target="_blank"} | David Sanderson: The Winnipeg Free Press
+&nbsp; | [Finding our voice: A primer on the Manitoba dialect](pdf/Sanderson%20-%202014%20-%20Winnipeg%20Free%20Press.pdf){target="_blank"} (interview) | David Sanderson: The Winnipeg Free Press
 2010 | [Canadian Raising in Manitoba: Acoustic Effects of Articulatory Phasing and Lexical Frequency](pdf/Onosson%20-%202010%20-%20MA%20Thesis.pdf){target="_blank"} | Master's thesis, University of Manitoba
 
 </big>
