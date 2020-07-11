@@ -1,13 +1,5 @@
 name: "Sky Onosson"
 title: "Sky Onosson"
 output_dir: "."
-navbar:
-  title: "Sky Onosson"
-  left:
-    - text: "Research"
-      href: research.html
-  right:
-    - text: "Music"
-      href: music.html
 output:
   html_document

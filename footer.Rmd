@@ -11,9 +11,7 @@ library(fontawesome)
 
 ---
 
-<center>Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", height=16, fill="steelblue")` R Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}
+<center>Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", height=16, fill="steelblue")` Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}
 
-[`r fa("envelope", height=25, fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", height=25, fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} [`r fa("github", height=25,fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", height=25, fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin",height=25, fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("twitter", height=25, fill="steelblue")`](https://twitter.com/onosson){target="_blank"} [`r fa("facebook", height=25, fill="steelblue")`](https://www.facebook.com/onosson){target="_blank"} [`r fa("instagram", height=25, fill="steelblue")`](https://instagram.com/sky_onosson){target="_blank"} [`r fa("bandcamp", height=25, fill="steelblue")`](https://skyonosson.bandcamp.com/){target="_blank"} [`r fa("soundcloud", height=25, fill="steelblue")`](https://soundcloud.com/onosson){target="_blank"}</center>
----
-# , copyright &copy; `r format(Sys.Date(), "%Y")`
+[`r fa("envelope", height=25, fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", height=25, fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} [`r fa("github", height=25,fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", height=25, fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin",height=25, fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("twitter", height=25, fill="steelblue")`](https://twitter.com/onosson){target="_blank"} [`r fa("facebook", height=25, fill="steelblue")`](https://www.facebook.com/onosson){target="_blank"} [`r fa("instagram", height=25, fill="steelblue")`](https://instagram.com/sky_onosson){target="_blank"} 
 ---
