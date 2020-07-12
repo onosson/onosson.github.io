@@ -35,7 +35,7 @@ If you'd like to get in touch with me, the best way is by email at sky@onosson.c
 
 I also have an institutional email at Sky.Onosson@umanitoba.ca, although I don't check it as frequently. 
 
-And you can find me in all of the usual places --- [Twitter](https://twitter.com/onosson){target="_blank"}, [Facebook](https://www.facebook.com/onosson){target="_blank"} and [Instagram](https://instagram.com/sky_onosson){target="_blank"} --- where I post a mix of academic, music-related, and personal stuff.
+And you can find me in all of the usual places --- [Twitter](https://twitter.com/onosson){target="_blank"}, [Facebook](https://www.facebook.com/onosson){target="_blank"} and [Instagram](https://instagram.com/sky_onosson){target="_blank"} --- where I post a mix of academic and personal stuff.
 
 *I believe it is good policy not to follow/friend current students on social media.*
 
@@ -67,7 +67,7 @@ My academic work and research experience includes teaching courses in Linguistic
 
 ---
 
-### Research projects
+### Research projects [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
 I currently have several active research projects:
 
@@ -83,7 +83,7 @@ I currently have several active research projects:
 
 ---
 
-### My research
+### My research [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
 This site hosts archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my CV](pdf/OnossonCV.pdf){target="_blank"}. The list below combines peer-reviewed publications, current papers I have in some state of preparation, conference presentations, invited talks, workshops, and media interviews, in simple chronological order:
 
