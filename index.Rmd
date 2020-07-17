@@ -19,7 +19,7 @@ library(fontawesome)
 
 <br>
 
-<img src="images/hands.jpg" style="width:25%; border:4px solid; margin-right: 10px" align="right">
+<img src="images/hands.jpg" style="width:28%; border:2px solid; margin-right: 5px" align="right">
 
 <big>
 
@@ -37,7 +37,28 @@ I also have an institutional email at Sky.Onosson@umanitoba.ca, although I don't
 
 And you can find me in all of the usual places --- [Twitter](https://twitter.com/onosson){target="_blank"}, [Facebook](https://www.facebook.com/onosson){target="_blank"} and [Instagram](https://instagram.com/sky_onosson){target="_blank"} --- where I post a mix of academic and personal stuff.
 
-*I believe it is good policy not to follow/friend current students on social media.*
+>*I believe it is good policy not to follow/friend current students on social media.*
+
+<div class = "row">
+  
+<div class = "col-md-6">
+**Institutional Address** <br>
+Department of Linguistics <br>
+534 Fletcher Argue Building <br>
+15 Chancellor's Circle <br>
+University of Manitoba <br>
+Winnipeg MB Canada  R3T 5V5 <br>
+</div>
+  
+<div class = "col-md-6">
+**Personal Address** <br>
+Sky Onosson <br>
+1039 Garfield St. N. <br>
+Winnipeg MB Canada  R3E 2N7 <br> <br>
+ORCID: [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_blank"}
+</div>
+
+</div>
 
 ---
 
