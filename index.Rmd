@@ -37,7 +37,7 @@ I also have an institutional email at Sky.Onosson@umanitoba.ca, although I don't
 
 And you can find me in all of the usual places --- [Twitter](https://twitter.com/onosson){target="_blank"}, [Facebook](https://www.facebook.com/onosson){target="_blank"} and [Instagram](https://instagram.com/sky_onosson){target="_blank"} --- where I post a mix of academic and personal stuff.
 
->*I believe it is good policy not to follow/friend current students on social media.*
+*I believe it is good policy not to follow/friend current students on social media.*
 
 <div class = "row">
   
@@ -57,7 +57,6 @@ Sky Onosson <br>
 Winnipeg MB Canada  R3E 2N7 <br> <br>
 ORCID: [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_blank"}
 </div>
-
 </div>
 
 ---
@@ -110,15 +109,15 @@ This site hosts archived copies of most of my published or presented work going 
 
 Year | Title | Journal/Forum/Venue
 -|---|---
-2020 | [The effects of language contact on non-native diphthongs in lexical borrowings: The case of Media Lengua](pdf/Onosson,%20Stewart%20-%202020%20-%20Society%20for%20Pidgin%20and%20Creole%20Linguistics.pdf){target="_blank"} (with Jesse Stewart) | Society for Pidgin and Creole Linguistics, New Orleans LA
+2020 | The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua (with Jesse Stewart) | Submitted for peer review
+&nbsp; | Prevelar front-vowel merger in Winnipeg English | Submitted for peer review
+&nbsp; | A phonetic investigation of Tŝilhqot’in /z/ and /z^ʕ^/ (with Sonya Bird) | Submitted for peer review
+&nbsp; | [The effects of language contact on non-native diphthongs in lexical borrowings: The case of Media Lengua](pdf/Onosson,%20Stewart%20-%202020%20-%20Society%20for%20Pidgin%20and%20Creole%20Linguistics.pdf){target="_blank"} (with Jesse Stewart) | Society for Pidgin and Creole Linguistics, New Orleans LA
 &nbsp; | [Ethnolinguistic Vowel Differentiation in Manitoba English](pdf/Onosson,%20Rosen%20-%202020%20-%20American%20Dialect%20Society.pdf){target="_blank"} | American Dialect Society, New Orleans LA
 &nbsp;  | TRAP-raising and the Canadian/Low-Back-Merger Shift in Prairie English  (accepted--did not present due to Covid19) | Canadian Linguistic Association, Western University
-&nbsp; | The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua (with Jesse Stewart) | Submitted for peer review
-&nbsp; | Prevelar front-vowel merger in Winnipeg English | Submitted for peer review
-&nbsp; | Canadian Shift amidst demographic shift: Ethnolinguistic effects in Western Canadian English vowels (with Nicole Rosen) | In preparation
-&nbsp; | A phonetic investigation of Tŝilhqot’in /z/ and /zʕ/ (with Sonya Bird) | In preparation
 &nbsp; | Suppressing biases in correlate identification in acoustic data: The case of Media Lengua (with Jesse Stewart) | In preparation
 &nbsp; | The interaction of yod retention with /u/-fronting in Victoria | In preparation
+&nbsp; | Canadian Shift amidst demographic shift: Ethnolinguistic effects in Western Canadian English vowels (with Nicole Rosen) | In preparation
 &nbsp; | Functional differentiation of tipo in Brazilian Portuguese: Grammaticalization in progress (with Christiani Thompson) | In preparation
 &nbsp; | Topicalization in Brazilian Portuguese: Subject-doubling constructions (with Christiani Thompson) | In preparation
 2019 | [Workshop on Statistics for Linguistics](https://github.com/onosson/UM_Workshop){target="_blank"} | University of Manitoba
