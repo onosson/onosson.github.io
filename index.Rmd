@@ -1,9 +1,7 @@
 ---
 title: "Home"
 output:
-  html_document:
-    includes:
-      after_body: footer.html
+  html_document
 ---
 
 <style type="text/css">
@@ -23,13 +21,9 @@ library(fontawesome)
 
 <big>
 
-# Sky Onosson, Ph.D.
+# Sky Onosson, Ph.D. [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("twitter", fill="steelblue")`](https://twitter.com/onosson){target="_blank"} [`r fa("facebook", fill="steelblue")`](https://www.facebook.com/onosson){target="_blank"} [`r fa("instagram", fill="steelblue")`](https://instagram.com/sky_onosson){target="_blank"}
 
 This site contains information on my research & work as a linguist. I am currently a postdoctoral researcher, some-times sessional lecturer, and active job applicant open to interesting opportunities of all kinds.
-
----
-
-### Contact and social media [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("twitter", fill="steelblue")`](https://twitter.com/onosson){target="_blank"} [`r fa("facebook", fill="steelblue")`](https://www.facebook.com/onosson){target="_blank"} [`r fa("instagram", fill="steelblue")`](https://instagram.com/sky_onosson){target="_blank"}
 
 If you'd like to get in touch with me, the best way is by email at sky@onosson.com. 
 
@@ -61,7 +55,7 @@ ORCID: [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_bla
 
 ---
 
-### My work in linguistics [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin", fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
+## My work in linguistics [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin", fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
 
 My research revolves around the fields of acoustic phonetics, sociolinguistics, and articulatory phonology, with a dash of computational linguistics, which I see as a pretty natural and necessary connection in this day and age. A lot of my work has looked at the dynamic properties of vowel production, such as diphthongs, from both phonetic and phonological points of view.
 
@@ -73,7 +67,7 @@ The information on this page is the best compendium of my research, both active 
 
 ---
 
-### Current position and previous experience [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
+## Current position and previous experience [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
 I am currently working as a Postdoctoral Research Fellow in the [Department of Linguistics](https://umanitoba.ca/linguistics/){target="_blank"} at the [University of Manitoba](https://www.umanitoba.ca/){target="_blank"} as part of the [*Languages in the Prairies Project*](https://home.cc.umanitoba.ca/~rosenn/sace.html){target="_blank"} spearheaded by [Dr. Nicole Rosen](https://home.cc.umanitoba.ca/~rosenn/){target="_blank"} (see below).
 
@@ -87,7 +81,7 @@ My academic work and research experience includes teaching courses in Linguistic
 
 ---
 
-### Research projects [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
+## Research projects [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
 I currently have several active research projects:
 
@@ -103,7 +97,7 @@ I currently have several active research projects:
 
 ---
 
-### My research [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
+## My research [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
 This site hosts archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my CV](pdf/OnossonCV.pdf){target="_blank"}. The list below combines peer-reviewed publications, current papers I have in some state of preparation, conference presentations, invited talks, workshops, and media interviews, in simple chronological order:
 
@@ -139,5 +133,21 @@ Year | Title | Journal/Forum/Venue
 &nbsp; | [Analyzing complex vowel articulations from acoustic data](pdf/Onosson%20-%202014%20-%20Cascadia%20Workshop%20in%20Sociolinguistics.pdf){target="_blank"} | Cascadia Workshop in Sociolinguistics, University of Victoria
 &nbsp; | [Finding our voice: A primer on the Manitoba dialect](pdf/Sanderson%20-%202014%20-%20Winnipeg%20Free%20Press.pdf){target="_blank"} (interview) | David Sanderson: The Winnipeg Free Press
 2010 | [Canadian Raising in Manitoba: Acoustic Effects of Articulatory Phasing and Lexical Frequency](pdf/Onosson%20-%202010%20-%20MA%20Thesis.pdf){target="_blank"} | Master's thesis, University of Manitoba
+
+---
+
+<center>
+
+<br>
+
+<img src="images/OnossonLogo.jpeg" style="width:28%">
+
+<br>
+
+Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", height=16, fill="steelblue")` Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}
+
+[`r fa("envelope", height=25, fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", height=25, fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} [`r fa("github", height=25,fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", height=25, fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin",height=25, fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("twitter", height=25, fill="steelblue")`](https://twitter.com/onosson){target="_blank"} [`r fa("facebook", height=25, fill="steelblue")`](https://www.facebook.com/onosson){target="_blank"} [`r fa("instagram", height=25, fill="steelblue")`](https://instagram.com/sky_onosson){target="_blank"} 
+
+</center>
 
 </big>
