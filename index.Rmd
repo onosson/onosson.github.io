@@ -17,7 +17,7 @@ library(fontawesome)
 
 <br>
 
-<img src="images/hands.jpg" style="width:28%; border:2px solid; margin-right: 5px" align="right">
+<img src="images/hands.jpg" style="width:25%; border:2px solid; margin-right: 5px" align="right">
 
 <big>
 
@@ -55,9 +55,17 @@ ORCID: [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_bla
 
 ---
 
-## My work in linguistics [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin", fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
+## My work in linguistics [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin", fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
-My research revolves around the fields of acoustic phonetics, sociolinguistics, and articulatory phonology, with a dash of computational linguistics, which I see as a pretty natural and necessary connection in this day and age. A lot of my work has looked at the dynamic properties of vowel production, such as diphthongs, from both phonetic and phonological points of view.
+My research revolves around the fields of phonetics, phonology, sociolinguistics, and computational linguistics. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view.
+
+I am currently working as a Postdoctoral Research Fellow in the [Department of Linguistics](https://umanitoba.ca/linguistics/){target="_blank"} at the [University of Manitoba](https://www.umanitoba.ca/){target="_blank"} as part of the [*Languages in the Prairies Project*](https://home.cc.umanitoba.ca/~rosenn/sace.html){target="_blank"} spearheaded by [Dr. Nicole Rosen](https://home.cc.umanitoba.ca/~rosenn/){target="_blank"} (see below).
+
+I am a graduate of both the [University of Manitoba](http://www.umanitoba.ca/linguistics/){target="_blank"} (B.A. and M.A.) and the [University of Victoria](https://www.uvic.ca/humanities/linguistics/){target="_blank"} (Ph.D.).
+
+My academic work and research experience includes teaching courses in Linguistics at the [University of Manitoba](http://www.umanitoba.ca/linguistics/){target="_blank"} and the [University of Winnipeg](https://www.uwinnipeg.ca/interdisciplinary-linguistics/index.html){target="_blank"}, serving as a research assistant and lab instructor at the [University of Victoria](https://www.uvic.ca/humanities/linguistics/){target="_blank"}, presenting at a variety of major linguistics conferences, and volunteering as editor and conference organizer on multiple occasions. 
+
+[My academic CV](pdf/OnossonCV.pdf){target="_blank"} contains much more information on all of the above. I also have an [industry-facing resume](pdf/OnossonResume.pdf){target="_blank"} for non-academic purposes, should they arise.
 
 The information on this page is the best compendium of my research, both active and historical, but there are also a few sites which I maintain for other purposes:
 
@@ -67,37 +75,23 @@ The information on this page is the best compendium of my research, both active 
 
 ---
 
-## Current position and previous experience [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
-
-I am currently working as a Postdoctoral Research Fellow in the [Department of Linguistics](https://umanitoba.ca/linguistics/){target="_blank"} at the [University of Manitoba](https://www.umanitoba.ca/){target="_blank"} as part of the [*Languages in the Prairies Project*](https://home.cc.umanitoba.ca/~rosenn/sace.html){target="_blank"} spearheaded by [Dr. Nicole Rosen](https://home.cc.umanitoba.ca/~rosenn/){target="_blank"} (see below).
-
-I am currently coordinating the [Coding for Linguistics Discussion Group](https://onosson.github.io/UM_Discussion_Group/){target="_blank"} at the University of Manitoba, which began in February and is planned to continue throughout 2020 on a (semi-)monthly basis.
-
-I am a graduate of both the [University of Manitoba](http://www.umanitoba.ca/linguistics/){target="_blank"} (B.A. and M.A.) and the [University of Victoria](https://www.uvic.ca/humanities/linguistics/){target="_blank"} (Ph.D.).
-
-My academic work and research experience includes teaching courses in Linguistics at the [University of Manitoba](http://www.umanitoba.ca/linguistics/){target="_blank"} and the [University of Winnipeg](https://www.uwinnipeg.ca/interdisciplinary-linguistics/index.html){target="_blank"}, serving as a research assistant and lab instructor at the [University of Victoria](https://www.uvic.ca/humanities/linguistics/){target="_blank"}, presenting at a variety of major linguistics conferences, and volunteering as editor and conference organizer on multiple occasions. 
-
-[My academic CV](pdf/OnossonCV.pdf){target="_blank"} contains much more information on all of the above. I also have an [industry-facing resume](pdf/OnossonResume.pdf){target="_blank"} for non-academic purposes, should they arise.
-
----
-
 ## Research projects [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
-I currently have several active research projects:
+I am currently involved in several active research projects:
 
-* **Vowel production and variation in Manitoba/Prairie English** The data for this research is drawn from [Dr. Nicole Rosen's](https://home.cc.umanitoba.ca/~rosenn/){target="_blank"} Canada Research Chair-funded [*Languages in the Prairies Project*](https://home.cc.umanitoba.ca/~rosenn/sace.html){target="_blank"} (LIPP). My research on LIPP has led to two [conference presentations](pdf/Onosson,%20Rosen%20-%202020%20-%20American%20Dialect%20Society.pdf){target="_blank"}, including a [published proceedings](pdf/Onosson,%20Rosen,%20Li%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"}, and a full article is currently under peer review. Significant findings from this research include the documentation of distinctive ethnolinguistic patterns across several phonological processes in the Filipino and Mennonite communities in Manitoba, and documentation of both Canadian Shift and prevelar raising in general Manitoba/Prairie English.
+* **Vowel dynamics.** This work stems from my [M.A.](pdf/Onosson%20-%202010%20-%20MA%20Thesis.pdf){target="_blank"} and [Ph.D.](pdf/Onosson%20-%202018%20-%20PhD%20Dissertation.pdf){target="_blank"} graduate work, which focused on "Canadian Raising" of the /aj/ and /aw/ diphthongs before voiceless codas. I am interested in the ways that different dialects handle pre-voiceless shortening phonologically, and how this plays out phonetically in the context of what are perceived as "raised" diphthongal nuclei. I have also been expanding my work on diphthongs and diphthongal productions into non-IndoEuropean languages such as *Media Lengua* (Ecuador) and *Hul'q'umi'num'* (British Columbia) -- see below.
 
-* **Variation and change in contemporary Brazilian Portuguese** Beginning in 2015, in collaboration with [Christiani Pinheiro Thompson](https://artsandscience.usask.ca/linguistics/graduates/current-graduate-students.php){target="_blank"} (University of Saskatchewan), we have recorded more than 80 multi-media intervews with nearly 180 middle-school children in urban Rio de Janeiro. Currently we are focusing on carrying out the lengthy process of transcription, after which we plan to document many of the [interesting linguistic innovations](pdf/Thompson,%20Onosson%20-%202016%20-%20New%20Ways%20of%20Analyzing%20Variation%2045.pdf){target="_blank"} taking place in this community, which include lexical, syntactic, and phonological features among others. I currently have two articles in prep related to this project.
+* **Ethnoloinguistic variation in *Manitoba/Prairie English*.** The data for this research is drawn from [Dr. Nicole Rosen's](https://home.cc.umanitoba.ca/~rosenn/){target="_blank"} Canada Research Chair-funded [*Languages in the Prairies Project*](https://home.cc.umanitoba.ca/~rosenn/sace.html){target="_blank"} (LIPP). Significant findings from this research include the documentation of distinctive ethnolinguistic patterns across several phonological processes in the Filipino and Mennonite communities in Manitoba, and documentation of both Canadian Shift and prevelar raising in general Manitoba/Prairie English. My research on LIPP has led to two [conference presentations](pdf/Onosson,%20Rosen%20-%202020%20-%20American%20Dialect%20Society.pdf){target="_blank"}, including a [published proceedings](pdf/Onosson,%20Rosen,%20Li%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"}, and a full article is currently under peer review. 
 
-* **Vowel production in the Ecuadorian mixed language *Media Lengua*.** This project is a collaboration with [Dr. Jesse Stewart](http://www.jessestewart.net/){target="_blank"} (University of Saskatchewan). The lexicon of Media Lengua derives from both Quichua and Spanish. Our current work focuses on how vowel-sequences from different-origin source languages are handled in Media Lengua, from both phonetic and phonological perspectives. Two papers resulting from this collaboration are currently under review.
+* **Variation and change in contemporary *Brazilian Portuguese*.** Beginning in 2015, in collaboration with [Christiani Pinheiro Thompson](https://artsandscience.usask.ca/linguistics/graduates/current-graduate-students.php){target="_blank"} (University of Saskatchewan), we have recorded more than 80 multi-media intervews with nearly 180 middle-school children in urban Rio de Janeiro. Currently we are focusing on carrying out the lengthy process of transcription, after which we plan to document many of the [interesting linguistic innovations](pdf/Thompson,%20Onosson%20-%202016%20-%20New%20Ways%20of%20Analyzing%20Variation%2045.pdf){target="_blank"} taking place in this community, which include lexical, syntactic, and phonological features among others. I currently have two articles in prep related to this project. 
 
-* **Descriptive phonetic analysis of Indigenous Languages of British Columbia** This work is being conducted in collaboration with [Dr. Sonya Bird](https://www.uvic.ca/humanities/linguistics/people/faculty/birdsonya.php){target="_blank"} (University of Victoria), and focuses on two Indigenous languages: the Coast Salish language *Hul'q'umi'num'* spoken on Vancouver Island, and the Athabaskan language *Tsilhqot'in* spoken in the interior of B.C. Work on *Hul'q'umi'num'* has involved application of techniques for the analysis of dynamic acoustic patterns to compare production differences between fluent elders and language learners to assist in the language learning process. This work has produced two [conference presentations](pdf/Onosson%20-%202019%20-%20Prairie%20Workshop%20on%20Languages%20and%20Linguistics%20V.pdf){target="_blank"}, including a [published proceedings](pdf/Onosson,%20Bird%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"}. My work on *Tsilhqot'in* is focused on the acoustics of consonants, which is a new area for me, and a paper resulting from this collaboration is currently under review.
+* **The vowels of *Media Lengua*.** This project is a collaboration with [Dr. Jesse Stewart](http://www.jessestewart.net/){target="_blank"} (University of Saskatchewan). Media Lengua is a mixed language spoken in Ecuador whose lexicon is mainly Spanish-origin, fitted into a vowel system which more closely resembles that of Quichua (and which utilizes mainly Quichua syntax). Our current work focuses on how vowel-sequences from different-origin source languages are handled in Media Lengua, from both phonetic and phonological perspectives. Two papers resulting from this collaboration are currently under review, and we have plans to develop more research focused on the unique vowel system of Media Lengua.
 
-* **Vowel dynamics of North American English** This work stems from my [M.A.](pdf/Onosson%20-%202010%20-%20MA%20Thesis.pdf){target="_blank"} and [Ph.D.](pdf/Onosson%20-%202018%20-%20PhD%20Dissertation.pdf){target="_blank"} graduate work, which focused on "Canadian Raising" of the /aj/ and /aw/ diphthongs before voiceless codas. I am interested in the ways that different dialects handle pre-voiceless shortening in general, and how this plays out in the context of what are perceived as "raised" diphthongal nuclei.
+* **Two collaborative studies of Indigenous Languages of British Columbia.** This work is being conducted in collaboration with [Dr. Sonya Bird](https://www.uvic.ca/humanities/linguistics/people/faculty/birdsonya.php){target="_blank"} (University of Victoria), and involves the Coast Salish language *Hul'q'umi'num'* spoken on Vancouver Island, and the Athabaskan language *Tsilhqot'in* spoken in the interior of B.C. My work on Hul'q'umi'num' has involved application of techniques for the analysis of vowel dynamics to compare production differences between fluent elders and language learners, and thereby assist in the language learning process. This study has produced two [conference presentations](pdf/Onosson%20-%202019%20-%20Prairie%20Workshop%20on%20Languages%20and%20Linguistics%20V.pdf){target="_blank"}, including a [published proceedings](pdf/Onosson,%20Bird%20-%202019%20-%20ICPhS%20Proceedings.pdf){target="_blank"}. My work on Tsilhqot'in is focused on a descriptive analysis of consonant sounds; a paper resulting from this study is currently under review.
 
 ---
 
-## My research [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
+## A compendium of my research [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
 This site hosts archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my CV](pdf/OnossonCV.pdf){target="_blank"}. The list below combines peer-reviewed publications, current papers I have in some state of preparation, conference presentations, invited talks, workshops, and media interviews, in simple chronological order:
 
