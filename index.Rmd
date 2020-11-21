@@ -21,41 +21,26 @@ library(fontawesome)
 
 <big>
 
-# Sky Onosson, Ph.D. [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("twitter", fill="steelblue")`](https://twitter.com/onosson){target="_blank"} [`r fa("facebook", fill="steelblue")`](https://www.facebook.com/onosson){target="_blank"} [`r fa("instagram", fill="steelblue")`](https://instagram.com/sky_onosson){target="_blank"}
+# Sky Onosson, Ph.D. [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) 
 
 This site contains information on my research & work as a linguist. I am currently a postdoctoral researcher, some-times sessional lecturer, and active job applicant open to interesting opportunities of all kinds.
 
 If you'd like to get in touch with me, the best way is by email at sky@onosson.com. 
 
-I also have an institutional email at Sky.Onosson@umanitoba.ca, although I don't check it as frequently. 
-
-And you can find me in all of the usual places --- [Twitter](https://twitter.com/onosson){target="_blank"}, [Facebook](https://www.facebook.com/onosson){target="_blank"} and [Instagram](https://instagram.com/sky_onosson){target="_blank"} --- where I post a mix of academic and personal stuff.
-
-*I believe it is good policy not to follow/friend current students on social media.*
-
-<div class = "row">
-  
-<div class = "col-md-6">
-**Institutional Address** <br>
+**Institutional Address and Email** <br>
 Department of Linguistics <br>
+University of Manitoba <br>
 534 Fletcher Argue Building <br>
 15 Chancellor's Circle <br>
-University of Manitoba <br>
 Winnipeg MB Canada  R3T 5V5 <br>
-</div>
-  
-<div class = "col-md-6">
-**Personal Address** <br>
-Sky Onosson <br>
-1039 Garfield St. N. <br>
-Winnipeg MB Canada  R3E 2N7 <br> <br>
+
+Sky.Onosson@umanitoba.ca
+
 ORCID: [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_blank"}
-</div>
-</div>
 
 ---
 
-## My work in linguistics [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin", fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
+## My work in linguistics [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
 My research revolves around the fields of phonetics, phonology, sociolinguistics, and computational linguistics. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view.
 
@@ -69,7 +54,7 @@ My academic work and research experience includes teaching courses in Linguistic
 
 The information on this page is the best compendium of my research, both active and historical, but there are also a few sites which I maintain for other purposes:
 
-* I have an increasingly-active profile on [GitHub](https://github.com/onosson){target="_blank"}
+* My profile on [GitHub](https://github.com/onosson){target="_blank"}
 * My [ResearchGate](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} page also hosts copies of my papers & presentations, but isn't updated as often
 * I also try to keep [LinkedIn](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} updated, although probably less diligently
 
@@ -140,7 +125,7 @@ Year | Title | Journal/Forum/Venue
 
 Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", height=16, fill="steelblue")` Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}
 
-[`r fa("envelope", height=25, fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", height=25, fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} [`r fa("github", height=25,fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", height=25, fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin",height=25, fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("twitter", height=25, fill="steelblue")`](https://twitter.com/onosson){target="_blank"} [`r fa("facebook", height=25, fill="steelblue")`](https://www.facebook.com/onosson){target="_blank"} [`r fa("instagram", height=25, fill="steelblue")`](https://instagram.com/sky_onosson){target="_blank"} 
+[`r fa("envelope", height=25, fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", height=25, fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} [`r fa("github", height=25,fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("linkedin",height=25, fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("twitter", height=25, fill="steelblue")`](https://twitter.com/onosson){target="_blank"}
 
 </center>
 
