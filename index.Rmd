@@ -40,7 +40,17 @@ ORCID: [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_bla
 
 ---
 
-## My work in linguistics [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
+On this page:
+
+* [My work in linguistics](#work)
+* [My research projects](#projects)
+* [My CV](#cv)
+
+
+---
+
+
+## My work in linguistics [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#work}
 
 My research revolves around the fields of phonetics, phonology, sociolinguistics, and computational linguistics. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view.
 
@@ -60,7 +70,7 @@ The information on this page is the best compendium of my research, both active 
 
 ---
 
-## Research projects [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
+## Research projects [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#projects}
 
 I am currently involved in several active research projects:
 
@@ -76,17 +86,16 @@ I am currently involved in several active research projects:
 
 ---
 
-## A compendium of my research [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
+## A compendium of my research [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#cv}
 
-This site hosts archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my CV](pdf/OnossonCV.pdf){target="_blank"}. The list below combines peer-reviewed publications, current papers I have in some state of preparation, conference presentations, invited talks, workshops, and media interviews, in simple chronological order:
+This site hosts archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my full CV](pdf/OnossonCV.pdf){target="_blank"}. The simplified CV presented below combines peer-reviewed publications, current papers I have in some state of preparation, conference presentations, invited talks, workshops, and media interviews, in chronological order:
 
 Year | Title | Journal/Forum/Venue
 -|---|---
 2021 | The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua (with Jesse Stewart) | Under revision
-&nbsp; | The interaction of yod retention with /u/-fronting in Victoria | Under review
 &nbsp; | Prevelar front-vowel merger in Winnipeg English | Under review
-&nbsp; | A phonetic investigation of Tŝilhqot’in /z/ and /z^ʕ^/ (with Sonya Bird) | Under review
-&nbsp; | Suppressing biases in correlate identification in acoustic data: The case of Media Lengua (with Jesse Stewart) | Under review
+&nbsp; | A phonetic investigation of Tŝilhqot’in /z/ and /z^ʕ^/ (with Sonya Bird) | Under revision
+&nbsp; | Suppressing biases in correlate identification in acoustic data: The case of Media Lengua (with Jesse Stewart) | Under revision
 &nbsp; | Canadian Shift amidst demographic shift: Ethnolinguistic effects in Western Canadian English vowels (with Nicole Rosen) | In preparation
 &nbsp; | Phonetic change in the grammaticalization of Brazilian Portuguese *tipo* (with Christiani Thompson) | In preparation
 &nbsp; | Topicalization in Brazilian Portuguese: Subject-doubling constructions (with Christiani Thompson) | In preparation
