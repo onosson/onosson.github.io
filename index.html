@@ -23,6 +23,15 @@
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
   pre:not([class]) {
@@ -67,6 +76,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -252,22 +262,22 @@ h1.title {
 <tr class="odd">
 <td>2021</td>
 <td>The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua (with Jesse Stewart)</td>
+<td>Language and Speech (accepted, pending review)</td>
+</tr>
+<tr class="even">
+<td> </td>
+<td>A phonetic investigation of Tŝilhqot’in /z/ and /z<sup>ʕ</sup>/ (with Sonya Bird)</td>
+<td>Under revision</td>
+</tr>
+<tr class="odd">
+<td> </td>
+<td>Suppressing biases in correlate identification in acoustic data: The case of Media Lengua (with Jesse Stewart)</td>
 <td>Under revision</td>
 </tr>
 <tr class="even">
 <td> </td>
 <td>Prevelar front-vowel merger in Winnipeg English</td>
 <td>Under review</td>
-</tr>
-<tr class="odd">
-<td> </td>
-<td>A phonetic investigation of Tŝilhqot’in /z/ and /z<sup>ʕ</sup>/ (with Sonya Bird)</td>
-<td>Under revision</td>
-</tr>
-<tr class="even">
-<td> </td>
-<td>Suppressing biases in correlate identification in acoustic data: The case of Media Lengua (with Jesse Stewart)</td>
-<td>Under revision</td>
 </tr>
 <tr class="odd">
 <td> </td>
@@ -417,7 +427,7 @@ h1.title {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
