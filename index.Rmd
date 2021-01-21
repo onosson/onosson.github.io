@@ -72,7 +72,7 @@ The information on this page is the best compendium of my research, both active 
 
 ## Research projects [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#projects}
 
-I am currently involved in several active research projects:
+I am currently involved in several active research projects which include, in no particular order:
 
 * **Vowel dynamics.** This work stems from my [M.A.](pdf/Onosson%20-%202010%20-%20MA%20Thesis.pdf){target="_blank"} and [Ph.D.](pdf/Onosson%20-%202018%20-%20PhD%20Dissertation.pdf){target="_blank"} graduate work, which focused on "Canadian Raising" of the /aj/ and /aw/ diphthongs before voiceless codas. I am interested in the ways that different dialects handle pre-voiceless shortening phonologically, and how this plays out phonetically in the context of what are perceived as "raised" diphthongal nuclei. I have also been expanding my work on diphthongs and diphthongal productions into non-IndoEuropean languages such as *Media Lengua* (Ecuador) and *Hul'q'umi'num'* (British Columbia) -- see below.
 
@@ -86,9 +86,9 @@ I am currently involved in several active research projects:
 
 ---
 
-## A compendium of my research [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#cv}
+## Curriculum vitae and publication downloads [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#cv}
 
-This site hosts archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my full CV](pdf/OnossonCV.pdf){target="_blank"}. The simplified CV presented below combines peer-reviewed publications, current papers I have in some state of preparation, conference presentations, invited talks, workshops, and media interviews, in chronological order:
+This site hosts archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my full CV](pdf/OnossonCV.pdf){target="_blank"}. The simplified CV presented below combines peer-reviewed publications, current papers I have in some state of preparation, conference presentations, invited talks, workshops, and media interviews, in chronological order, and includes active links to copies of publications which are available for download:
 
 Year | Title | Journal/Forum/Venue
 -|---|---
