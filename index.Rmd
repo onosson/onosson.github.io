@@ -92,11 +92,12 @@ This site hosts archived copies of most of my published or presented work going 
 
 Year | Title | Journal/Forum/Venue
 -|---|---
-2021 | The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua (with Jesse Stewart) | Language and Speech (accepted, pending review)
+2021 | The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua (with Jesse Stewart) | Language and Speech (accepted)
+&nbsp; | A multi-method approach to correlate identification in acoustic data: The case of Media Lengua (with Jesse Stewart) | Laboratory Phonology (accepted)
+&nbsp; | Phonetic change in the grammaticalization of Brazilian Portuguese *tipo* (with Christiani Thompson) | Canadian Linguistic Association
 &nbsp; | A phonetic investigation of Tŝilhqot’in /z/ and /z^ʕ^/ (with Sonya Bird) | Under revision
-&nbsp; | Suppressing biases in correlate identification in acoustic data: The case of Media Lengua (with Jesse Stewart) | Under revision
 &nbsp; | Prevelar front-vowel merger in Winnipeg English | Under review
-&nbsp; | Canadian Shift amidst demographic shift: Ethnolinguistic effects in Western Canadian English vowels (with Nicole Rosen) | In preparation
+&nbsp; | Canadian Shift amidst demographic shift: Ethnolinguistic effects in Western Canadian English vowels (with Nicole Rosen and Lanlan Li) | In preparation
 &nbsp; | Phonetic change in the grammaticalization of Brazilian Portuguese *tipo* (with Christiani Thompson) | In preparation
 &nbsp; | Topicalization in Brazilian Portuguese: Subject-doubling constructions (with Christiani Thompson) | In preparation
 2020 | [The effects of language contact on non-native diphthongs in lexical borrowings: The case of Media Lengua](pdf/Onosson,%20Stewart%20-%202020%20-%20Society%20for%20Pidgin%20and%20Creole%20Linguistics.pdf){target="_blank"} (with Jesse Stewart) | Society for Pidgin and Creole Linguistics, New Orleans LA
