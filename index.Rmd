@@ -92,7 +92,7 @@ This site hosts archived copies of most of my published or presented work going 
 
 Year | Title | Journal/Forum/Venue
 -|---|---
-2021 | [The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Language and Speech proof.pdf){target="_blank"} (with Jesse Stewart) | Language and Speech (forthcoming)
+2021 | [The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Language and Speech.pdf){target="_blank"} (with Jesse Stewart) | Language and Speech
 &nbsp; | A multi-method approach to correlate identification in acoustic data: The case of Media Lengua (with Jesse Stewart) | Laboratory Phonology (accepted)
 &nbsp; | Phonetic change in the grammaticalization of Brazilian Portuguese *tipo* (with Christiani Thompson) | Canadian Linguistic Association
 &nbsp; | A phonetic investigation of Tŝilhqot’in /z/ and /z^ʕ^/ (with Sonya Bird) | Under revision
