@@ -40,7 +40,7 @@ ORCID: [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_bla
 
 ---
 
-On this page:
+### On this page
 
 * [My work in linguistics](#work)
 * [My research projects](#projects)
@@ -50,7 +50,7 @@ On this page:
 ---
 
 
-## My work in linguistics [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#work}
+## My work in linguistics {#work}
 
 My research revolves around the fields of phonetics, phonology, sociolinguistics, and computational linguistics. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view.
 
@@ -62,15 +62,16 @@ My academic work and research experience includes teaching courses in Linguistic
 
 [My academic CV](pdf/OnossonCV.pdf){target="_blank"} contains much more information on all of the above. I also have an [industry-facing resume](pdf/OnossonResume.pdf){target="_blank"} for non-academic purposes, should they arise.
 
-The information on this page is the best compendium of my research, both active and historical, but there are also a few sites which I maintain for other purposes:
+**Other links:**
 
-* My profile on [GitHub](https://github.com/onosson){target="_blank"}
-* My [ResearchGate](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} page also hosts copies of my papers & presentations, but isn't updated as often
-* I also try to keep [LinkedIn](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} updated, although probably less diligently
+* [`r fa("github", height=15,fill="steelblue")` GitHub](https://github.com/onosson){target="_blank"}
+* [`r fa("researchgate", height=15,fill="steelblue")` ResearchGate](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"}
+* [`r fa("linkedin",height=15, fill="steelblue")` LinkedIn](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
+* [`r fa("twitter", height=15, fill="steelblue")` Twitter](https://twitter.com/onosson){target="_blank"}
 
 ---
 
-## Research projects [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#projects}
+## Research projects {#projects}
 
 I am currently involved in several active research projects which include, in no particular order:
 
@@ -134,7 +135,7 @@ Year | Title | Journal/Forum/Venue
 
 Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", height=16, fill="steelblue")` Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}
 
-[`r fa("envelope", height=25, fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", height=25, fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} [`r fa("github", height=25,fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("linkedin",height=25, fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("twitter", height=25, fill="steelblue")`](https://twitter.com/onosson){target="_blank"}
+[`r fa("envelope", height=25, fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", height=25, fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} [`r fa("github", height=25,fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", height=25,fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin",height=25, fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("twitter", height=25, fill="steelblue")`](https://twitter.com/onosson){target="_blank"}
 
 </center>
 
