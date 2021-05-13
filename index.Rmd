@@ -50,7 +50,7 @@ ORCID: [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_bla
 ---
 
 
-## My work in linguistics {#work}
+## My work in linguistics [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#work}
 
 My research revolves around the fields of phonetics, phonology, sociolinguistics, and computational linguistics. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view.
 
@@ -71,7 +71,7 @@ My academic work and research experience includes teaching courses in Linguistic
 
 ---
 
-## Research projects {#projects}
+## Research projects [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#projects}
 
 I am currently involved in several active research projects which include, in no particular order:
 
