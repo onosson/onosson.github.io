@@ -1,7 +1,8 @@
 ---
 title: "Home"
 output:
-  html_document
+  html_document: default
+  pdf_document: default
 ---
 
 <style type="text/css">
@@ -64,10 +65,10 @@ My academic work and research experience includes teaching courses in Linguistic
 
 **Other links:**
 
-* [`r fa("github", height=15,fill="steelblue")` GitHub](https://github.com/onosson){target="_blank"}
-* [`r fa("researchgate", height=15,fill="steelblue")` ResearchGate](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"}
-* [`r fa("linkedin",height=15, fill="steelblue")` LinkedIn](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
-* [`r fa("twitter", height=15, fill="steelblue")` Twitter](https://twitter.com/onosson){target="_blank"}
+* [`r fa("github", fill="steelblue")` GitHub](https://github.com/onosson){target="_blank"}
+* [`r fa("researchgate", fill="steelblue")` ResearchGate](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"}
+* [`r fa("linkedin", fill="steelblue")` LinkedIn](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
+* [`r fa("twitter", fill="steelblue")` Twitter](https://twitter.com/onosson){target="_blank"}
 
 ---
 
@@ -133,9 +134,9 @@ Year | Title | Journal/Forum/Venue
 
 <br>
 
-Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", height=16, fill="steelblue")` Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}
+Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", fill="steelblue")` Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}
 
-[`r fa("envelope", height=25, fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", height=25, fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} [`r fa("github", height=25,fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", height=25,fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin",height=25, fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("twitter", height=25, fill="steelblue")`](https://twitter.com/onosson){target="_blank"}
+[`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin", fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("twitter",  fill="steelblue")`](https://twitter.com/onosson){target="_blank"}
 
 </center>
 
