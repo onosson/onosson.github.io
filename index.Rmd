@@ -1,12 +1,14 @@
 ---
 title: "Home"
 output:
-  html_document: default
-  pdf_document: default
+  html: default
 ---
 
 <style type="text/css">
-
+  body{
+  font-family: Helvetica;
+  font-size: 12pt;
+}
 h1.title {
   display: none;
 }
@@ -19,8 +21,6 @@ library(fontawesome)
 <br>
 
 <img src="images/hands.jpg" style="width:25%; border:2px solid; margin-right: 5px" align="right">
-
-<big>
 
 # Sky Onosson, Ph.D. [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) 
 
@@ -41,19 +41,36 @@ ORCID: [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_bla
 
 ---
 
+:::: {style="display: flex;"}
+
+::: {}
+
 ### On this page
 
-* [My work in linguistics](#work)
-* [My research projects](#projects)
-* [Publications and presentations](#cv)
+* [About me](#about)
+* [Research projects](#projects)
+* [Research output](#output)
 
+:::
+
+::: {}
+
+### Other links
+
+* [`r fa("researchgate", fill="steelblue")` ResearchGate](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"}
+* [`r fa("github", fill="steelblue")` GitHub](https://github.com/onosson){target="_blank"}
+* [`r fa("linkedin", fill="steelblue")` LinkedIn](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
+* [`r fa("twitter", fill="steelblue")` Twitter](https://twitter.com/onosson){target="_blank"}
+
+:::
+
+::::
 
 ---
 
+## About me [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#about}
 
-## My work in linguistics [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#work}
-
-My research revolves around the fields of phonetics, phonology, sociolinguistics, and computational linguistics. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view.
+My research revolves around the fields of phonetics, phonology, sociolinguistics, and quantitative methodology. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view.
 
 I am currently working as a Postdoctoral Research Fellow in the 
 [Department of Linguistics](https://umanitoba.ca/linguistics/){target="_blank"} at the 
@@ -73,13 +90,6 @@ My academic work and research experience includes teaching courses in Linguistic
 
 [My academic CV](pdf/OnossonCV.pdf){target="_blank"} contains much more information on all of the above. I also have an [industry-facing resume](pdf/OnossonResume.pdf){target="_blank"} for non-academic purposes, should they arise.
 
-**Other links:**
-
-* [`r fa("github", fill="steelblue")` GitHub](https://github.com/onosson){target="_blank"}
-* [`r fa("researchgate", fill="steelblue")` ResearchGate](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"}
-* [`r fa("linkedin", fill="steelblue")` LinkedIn](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
-* [`r fa("twitter", fill="steelblue")` Twitter](https://twitter.com/onosson){target="_blank"}
-
 ---
 
 ## Research projects [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#projects}
@@ -98,7 +108,7 @@ I am currently involved in several active research projects which include, in no
 
 ---
 
-## Publications and presentations [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#cv}
+## Research output [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#output}
 
 This site hosts archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my full CV](pdf/OnossonCV.pdf){target="_blank"}. The list below combines peer-reviewed publications, current papers I have in some state of preparation, conference presentations, invited talks, workshops, and media interviews, in chronological order, and includes active links to copies of publications which are available for download:
 
@@ -150,5 +160,3 @@ Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", fill=
 [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin", fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("twitter",  fill="steelblue")`](https://twitter.com/onosson){target="_blank"}
 
 </center>
-
-</big>
