@@ -22,13 +22,15 @@ library(fontawesome)
 
 <img src="images/hands.jpg" style="width:25%; border:2px solid; margin-right: 5px" align="right">
 
-# Sky Onosson, Ph.D. [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) 
+# Sky Onosson, Ph.D. [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
-This site contains information on my research & work as a linguist. I am currently a postdoctoral researcher and sessional lecturer, and I am open to interesting opportunities of all kinds.
+This site contains information on my research & work as a linguist. I am currently a research affiliate at the University of Manitoba, and a sessional lecturer at several universities. I am always open to interesting opportunities of all kinds, so feel free to get in touch!
 
-If you'd like to get in touch with me, the best way is by email at sky@onosson.com. 
+**Email:** [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) sky@onosson.com 
 
-**Institutional Address and Email** <br>
+**ORCID:** [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_blank"}
+
+**Institutional Address and Email:** <br>
 Department of Linguistics <br>
 University of Manitoba <br>
 534 Fletcher Argue Building <br>
@@ -37,7 +39,6 @@ Winnipeg MB Canada  R3T 5V5 <br>
 
 Sky.Onosson@umanitoba.ca
 
-ORCID: [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_blank"}
 
 ---
 
@@ -73,13 +74,7 @@ ORCID: [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_bla
 
 My research revolves around the fields of phonetics, phonology, sociolinguistics, and quantitative methodology. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view.
 
-I will soon be ending my tenure as a Postdoctoral Research Fellow in the 
-[Department of Linguistics](https://umanitoba.ca/linguistics/){target="_blank"} at the 
-[University of Manitoba](https://www.umanitoba.ca/){target="_blank"} as part of the 
-[*Languages in the Prairies Project*](https://home.cc.umanitoba.ca/~rosenn/sace.html){target="_blank"} spearheaded by 
-[Dr. Nicole Rosen](https://home.cc.umanitoba.ca/~rosenn/){target="_blank"} (see below).
-
-I am a graduate of both the 
+I am a graduate of the 
 [University of Manitoba](http://www.umanitoba.ca/linguistics/){target="_blank"} (B.A. and M.A.) and the 
 [University of Victoria](https://www.uvic.ca/humanities/linguistics/){target="_blank"} (Ph.D.).
 
