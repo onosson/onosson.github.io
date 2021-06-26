@@ -24,7 +24,7 @@ library(fontawesome)
 
 # Sky Onosson, Ph.D. [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
 
-This site contains information on my research & work as a linguist. I am currently a research affiliate at the University of Manitoba, and a sessional lecturer at several universities. I am always open to interesting opportunities of all kinds, so feel free to get in touch!
+This site contains information on my research & work as a linguist. I am a research affiliate at the University of Manitoba, a sessional lecturer at several universities. I am always open to interesting opportunities of all kinds, so feel free to get in touch!
 
 **Email:** [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) sky@onosson.com 
 
