@@ -109,9 +109,9 @@ This site hosts archived copies of most of my published or presented work going 
 
 Year | Title (local download links) | Journal/Forum/Venue (original links)
 -|---|---
-2021 | [Phonetic change in the grammaticalization of Brazilian Portuguese *tipo*](pdf/Thompson, Onosson - 2021 - Canadian Linguistic Association.pdf){target="_blank"} (with Christiani Thompson) | Canadian Linguistic Association
-&nbsp; | [The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Language and Speech.pdf){target="_blank"} (with Jesse Stewart) | [Language and Speech](https://doi.org/10.1177/00238309211014911){target="_blank"}
-&nbsp; | [A multi-method approach to correlate identification in acoustic data: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Laboratory Phonology preprint.pdf){target="_blank"} (with Jesse Stewart) | Laboratory Phonology (in press)
+2021 | [The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Language and Speech.pdf){target="_blank"} (with Jesse Stewart) | [Language and Speech](https://doi.org/10.1177/00238309211014911){target="_blank"}
+&nbsp; | [A multi-method approach to correlate identification in acoustic data: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Laboratory Phonology.pdf){target="_blank"} (with Jesse Stewart) | [Laboratory Phonology](https://www.journal-labphon.org/article/10.5334/labphon.291){target="_blank"}
+&nbsp; | [Phonetic change in the grammaticalization of Brazilian Portuguese *tipo*](pdf/Thompson, Onosson - 2021 - Canadian Linguistic Association.pdf){target="_blank"} (with Christiani Thompson) | Canadian Linguistic Association
 &nbsp; | A phonetic investigation of Tŝilhqot’in /z/ and /z^ʕ^/ (with Sonya Bird) | Under review
 &nbsp; | Prevelar vowel raising and merger in Manitoba English | Under review
 &nbsp; | Form, function, and reduction: Phonetic erosion in the grammaticalization of Brazilian Portuguese  *tipo* (with Christiani Thompson) | In preparation
