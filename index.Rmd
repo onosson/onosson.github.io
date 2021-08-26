@@ -51,7 +51,7 @@ Sky.Onosson@umanitoba.ca
 * [About me](#about)
 * [Research projects](#projects)
 * [Research output](#output)
-* [`r fa("file-alt", fill="steelblue")` Curriculum vitae](pdf/OnossonCV.pdf){target="_blank"}
+* [Teaching and work experience](#work)
 
 :::
 
@@ -59,6 +59,7 @@ Sky.Onosson@umanitoba.ca
 
 #### Links
 
+* [`r fa("file-alt", fill="steelblue")` Curriculum vitae](pdf/OnossonCV.pdf){target="_blank"}
 * [`r fa("researchgate", fill="steelblue")` ResearchGate](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"}
 * [`r fa("github", fill="steelblue")` GitHub](https://github.com/onosson){target="_blank"}
 * [`r fa("linkedin", fill="steelblue")` LinkedIn](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
@@ -107,7 +108,7 @@ meeting](pdf/Thompson, Onosson - 2021 - Canadian Linguistic Association.pdf){tar
 
 This site hosts archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my full CV](pdf/OnossonCV.pdf){target="_blank"}. The list below combines peer-reviewed publications, current papers I have in some state of preparation, conference presentations, invited talks, workshops, and media interviews, in chronological order, and includes active links to copies of publications which are available for download:
 
-Year | Title (local download links) | Journal/Forum/Venue (original links)
+Year | Title (local download links) | Journal / Forum / Venue (external links)
 -|---|---
 2021 | [The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Language and Speech.pdf){target="_blank"} (with Jesse Stewart) | [Language and Speech](https://doi.org/10.1177/00238309211014911){target="_blank"}
 &nbsp; | [A multi-method approach to correlate identification in acoustic data: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Laboratory Phonology.pdf){target="_blank"} (with Jesse Stewart) | [Laboratory Phonology](https://www.journal-labphon.org/article/10.5334/labphon.291){target="_blank"}
@@ -140,6 +141,31 @@ Year | Title (local download links) | Journal/Forum/Venue (original links)
 &nbsp; | [Analyzing complex vowel articulations from acoustic data](pdf/Onosson - 2014 - Cascadia Workshop in Sociolinguistics.pdf){target="_blank"} | Cascadia Workshop in Sociolinguistics, University of Victoria
 &nbsp; | [Finding our voice: A primer on the Manitoba dialect](pdf/Sanderson - 2014 - Winnipeg Free Press.pdf){target="_blank"} (interview) | [David Sanderson: The Winnipeg Free Press](https://www.winnipegfreepress.com/breakingnews/finding-our-voice-273288101.html){target="_blank"}
 2010 | [Canadian Raising in Manitoba: Acoustic Effects of Articulatory Phasing and Lexical Frequency](pdf/Onosson - 2010 - MA Thesis.pdf){target="_blank"} | [Master's thesis, University of Manitoba](https://mspace.lib.umanitoba.ca/handle/1993/4260){target="_blank"}
+
+---
+
+## Teaching and work experience {#work}
+
+Year | Course Title or Position | Institution
+-|---|---
+2022 | Academic Writing RHET-1105 | University of Winnipeg
+2022 | Phonetics and Phonology LING-2001/ANTH-2401/ENGL-2803 | University of Winnipeg
+2019--2021 | SSHRC Postdoctoral Research Fellowship | University of Manitoba
+2021 | Academic Writing RHET-1105 | University of Winnipeg
+2021 | Topics in Linguistics: Practical Statistics for Linguistics LING 4920 | University of Manitoba
+2021 | Child Language Development LING/PSYC-3860 | University of Manitoba
+2021 | Topics in Linguistics: Hul’q’umi’num’ Language Acquisition LING 480 | Simon Fraser University
+2021 | Phonetics and Phonology LING-2001/ANTH-2401/ENGL-2803 | University of Winnipeg
+2020 | Language Acquisition / Child Language Development LING/PSYC-3860 | University of Manitoba
+2018--2019 | Research Assistant, Languages in the Prairies Project | University of Manitoba
+2019 | Language and the Media LING 1620 | University of Manitoba
+2019 | Phonetics and Phonology LING-2001/ANTH-2401/ENGL-2803 | University of Winnipeg
+2013--2017 | Research Assistant, Victoria English Project | University of Victoria
+2014--2016 | Linguistic Consultant | GSD/Google
+2015 | Language Acquisition / Child Language Development LING/PSYC-3860 | University of Manitoba
+2013 | Phonetics and Phonology LING-2001/ANTH-2401/ENGL-2803 | University of Winnipeg
+2012 | Phonetics and Phonology LING-2001/ANTH-2401/ENGL-2803 | University of Winnipeg
+
 
 ---
 
