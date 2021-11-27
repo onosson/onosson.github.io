@@ -1,36 +1,22 @@
 ---
-title: "Home"
+title: "Sky Onosson"
 output:
   html: default
 ---
 
 <style type="text/css">
   body{
-  font-family: Helvetica;
+  font-family: Avenir;
   font-size: 12pt;
-}
-h1.title {
-  display: none;
 }
 </style>
 
-```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
-library(fontawesome)
-```
-
-<br>
-
 <img src="images/hands.jpg" style="width:25%; border:2px solid; margin-right: 5px" align="right">
 
-# Sky Onosson, Ph.D. [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"}
+This site contains information on my research & work as a linguist. I am a research affiliate at the University of Manitoba and a sessional lecturer at several universities. I am always open to interesting opportunities of all kinds, so feel free to get in touch through the email link above!
 
-This site contains information on my research & work as a linguist. I am a research affiliate at the University of Manitoba and a sessional lecturer at several universities. I am always open to interesting opportunities of all kinds, so feel free to get in touch!
+#### Institutional Address and Email
 
-**Email:** [`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) sky@onosson.com 
-
-**ORCID:** [0000-0001-9308-7202](https://orcid.org/0000-0001-9308-7202){target="_blank"}
-
-**Institutional Address and Email:** <br>
 Department of Linguistics <br>
 University of Manitoba <br>
 534 Fletcher Argue Building <br>
@@ -39,13 +25,6 @@ Winnipeg MB Canada  R3T 5V5 <br>
 
 Sky.Onosson@umanitoba.ca
 
-
----
-
-:::: {style="display: flex;"}
-
-::: {}
-
 #### On this page
 
 * [About me](#about)
@@ -53,25 +32,9 @@ Sky.Onosson@umanitoba.ca
 * [Research output](#output)
 * [Teaching and work experience](#work)
 
-:::
-
-::: {}
-
-#### Links
-
-* [`r fa("file-alt", fill="steelblue")` Curriculum vitae](pdf/OnossonCV.pdf){target="_blank"}
-* [`r fa("researchgate", fill="steelblue")` ResearchGate](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"}
-* [`r fa("github", fill="steelblue")` GitHub](https://github.com/onosson){target="_blank"}
-* [`r fa("linkedin", fill="steelblue")` LinkedIn](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"}
-* [`r fa("twitter", fill="steelblue")` Twitter](https://twitter.com/onosson){target="_blank"}
-
-:::
-
-::::
-
 ---
 
-## About me {#about}
+# About
 
 My research revolves around the fields of phonetics, phonology, sociolinguistics, and quantitative methodology. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view.
 
@@ -89,7 +52,7 @@ My academic work and research experience includes teaching courses in Linguistic
 
 ---
 
-## Research projects {#projects}
+# Research projects {#projects}
 
 I am currently involved in several active research projects which include, in no particular order:
 
@@ -104,7 +67,7 @@ meeting](pdf/Thompson, Onosson - 2021 - Canadian Linguistic Association.pdf){tar
 
 ---
 
-## Research output [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} {#output}
+# Research output {#output}
 
 This site hosts archived copies of most of my published or presented work going back to my 2010 master's thesis, all of which are listed on [my full CV](pdf/OnossonCV.pdf){target="_blank"}. The list below combines peer-reviewed publications, current papers I have in some state of preparation, conference presentations, invited talks, workshops, and media interviews, in chronological order, and includes active links to copies of publications which are available for download:
 
@@ -144,7 +107,7 @@ Year | Title (local download links) | Journal / Forum / Venue (external links)
 
 ---
 
-## Teaching and work experience {#work}
+# Teaching and work experience {#work}
 
 Year | Course Title or Position | Institution
 -|---|---
@@ -177,8 +140,6 @@ Year | Course Title or Position | Institution
 
 <br>
 
-Site built by [Sky Onosson](mailto:sky@onosson.com) in [`r fa("r-project", fill="steelblue")` Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}
-
-[`r fa("envelope", fill="steelblue")`](mailto:sky@onosson.com) [`r fa("file-alt", fill="steelblue")`](pdf/OnossonCV.pdf){target="_blank"} [`r fa("github", fill="steelblue")`](https://github.com/onosson){target="_blank"} [`r fa("researchgate", fill="steelblue")`](https://www.researchgate.net/profile/Sky_Onosson){target="_blank"} [`r fa("linkedin", fill="steelblue")`](https://www.linkedin.com/in/sky-onosson-57902870/){target="_blank"} [`r fa("twitter",  fill="steelblue")`](https://twitter.com/onosson){target="_blank"}
+Site built by [Sky Onosson](mailto:sky@onosson.com) in [R Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}
 
 </center>

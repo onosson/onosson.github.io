@@ -1,5 +1,29 @@
-name: "Sky Onosson"
+name: "onosson-com"
 title: "Sky Onosson"
+type: inverse
+navbar:
+  title: "Sky Onosson"
+  right:
+    - icon: fa-envelope
+      text: "Email"
+      href: mailto:sky@onosson.com
+    - text: "CV"
+      icon: fa-file-alt
+      href: https://onosson.github.io/pdf/OnossonCV.pdf
+    - text: "ResearchGate"
+      icon: site_libs/researchgate.svg
+      href: https://www.researchgate.net/profile/Sky_Onosson
+    - text: "Orcid"
+      href: https://orcid.org/0000-0001-9308-7202
+    - icon: fab fa-github
+      href: https://github.com/onosson
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/sky-onosson-57902870/
+    - icon: fa-twitter
+      href: https://twitter.com/onosson
+
 output_dir: "."
 output:
-  html_document
+  html_document:
+    includes:
+      after_body: include_footer.html
