@@ -25,7 +25,7 @@ Winnipeg MB Canada  R3T 5V5 <br>
 
 Sky.Onosson@umanitoba.ca
 
-#### On this page
+## On this page
 
 * [About me](#about)
 * [Research projects](#projects)
@@ -34,7 +34,7 @@ Sky.Onosson@umanitoba.ca
 
 ---
 
-# About
+# About Me
 
 My research revolves around the fields of phonetics, phonology, sociolinguistics, and quantitative methodology. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view.
 
