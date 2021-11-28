@@ -17,6 +17,10 @@ This site contains information on my research & work as a linguist. I am a resea
 
 <br>
 
+:::: {style="display: flex;"}
+
+::: {}
+
 ### On this page
 
 * [About me](#about)
@@ -24,21 +28,43 @@ This site contains information on my research & work as a linguist. I am a resea
 * [Research output](#output)
 * [Teaching and work experience](#work)
 
-<br>
+:::
+
+::: {}
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+
+:::
+
+::: {}
+
+Department of Linguistics <br>
+University of Manitoba <br>
+534 Fletcher Argue Building <br>
+15 Chancellor's Circle <br>
+Winnipeg MB Canada  R3T 5V5 <br>
+
+Sky.Onosson@umanitoba.ca
+
+:::
+
+::::
+
+---
 
 # About Me
 
 My research revolves around the fields of phonetics, phonology, sociolinguistics, and quantitative methodology. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view.
 
 I am a graduate of the 
-[University of Manitoba](http://www.umanitoba.ca/linguistics/) (B.A. and M.A.) and the 
-[University of Victoria](https://www.uvic.ca/humanities/linguistics/) (Ph.D.).
+[University of Manitoba](http://www.umanitoba.ca/linguistics/){target="_blank"} (B.A. and M.A.) and the 
+[University of Victoria](https://www.uvic.ca/humanities/linguistics/){target="_blank"} (Ph.D.).
 
 My academic work and research experience includes teaching courses in Linguistics at the 
-[University of Manitoba](http://www.umanitoba.ca/linguistics/), the 
-[University of Winnipeg](https://www.uwinnipeg.ca/interdisciplinary-linguistics/index.html), and 
-[Simon Fraser University](http://www.sfu.ca/linguistics.html), serving as a research assistant and lab instructor at the 
-[University of Victoria](https://www.uvic.ca/humanities/linguistics/), presenting at a variety of linguistics conferences large and small, and volunteering as editor and conference organizer on multiple occasions. 
+[University of Manitoba](http://www.umanitoba.ca/linguistics/){target="_blank"}, the 
+[University of Winnipeg](https://www.uwinnipeg.ca/interdisciplinary-linguistics/index.html){target="_blank"}, and 
+[Simon Fraser University](http://www.sfu.ca/linguistics.html){target="_blank"}, serving as a research assistant and lab instructor at the 
+[University of Victoria](https://www.uvic.ca/humanities/linguistics/){target="_blank"}, presenting at a variety of linguistics conferences large and small, and volunteering as editor and conference organizer on multiple occasions. 
 
 [My academic CV](pdf/OnossonCV.pdf){target="_blank"} contains much more information on all of the above. I also have an [industry-facing resume](pdf/OnossonResume.pdf){target="_blank"} for non-academic purposes, should they arise.
 
@@ -48,14 +74,14 @@ My academic work and research experience includes teaching courses in Linguistic
 
 I am currently involved in several active research projects which include, in no particular order:
 
-* **Variation and change in contemporary *Brazilian Portuguese*.** Since 2015, in collaboration with [Christiani Pinheiro Thompson](https://artsandscience.usask.ca/linguistics/graduates/current-graduate-students.php) (University of Saskatchewan), we have recorded more than 80 multi-media intervews with nearly 180 middle-school children in urban Rio de Janeiro. We recently presented some of our findings at the [Canadian Linguistic Association 2021
+* **Variation and change in contemporary *Brazilian Portuguese*.** Since 2015, in collaboration with [Christiani Pinheiro Thompson](https://artsandscience.usask.ca/linguistics/graduates/current-graduate-students.php){target="_blank"} (University of Saskatchewan), we have recorded more than 80 multi-media intervews with nearly 180 middle-school children in urban Rio de Janeiro. We recently presented some of our findings at the [Canadian Linguistic Association 2021
 meeting](pdf/Thompson, Onosson - 2021 - Canadian Linguistic Association.pdf){target="_blank"}, and are preparing a related article with several others also in the works.
 
-* **The vowels of *Media Lengua*.** This project is a collaboration with [Dr. Jesse Stewart](http://www.jessestewart.net/) (University of Saskatchewan). Media Lengua is a mixed language spoken in Ecuador whose lexicon is mainly Spanish-origin, fitted into a vowel system which derives from that of Quichua. Our current work focuses on how vowel-sequences from different-origin source languages are handled in Media Lengua, from both phonetic and phonological perspectives. Two papers resulting from this collaboration have recently been published by [Language and Speech](pdf/Onosson, Stewart - 2021 - Language and Speech.pdf){target="_blank"} and [Laboratory Phonology](pdf/Onosson, Stewart - 2021 - Laboratory Phonology preprint.pdf){target="_blank"}.
+* **The vowels of *Media Lengua*.** This project is a collaboration with [Dr. Jesse Stewart](http://www.jessestewart.net/){target="_blank"} (University of Saskatchewan). Media Lengua is a mixed language spoken in Ecuador whose lexicon is mainly Spanish-origin, fitted into a vowel system which derives from that of Quichua. Our current work focuses on how vowel-sequences from different-origin source languages are handled in Media Lengua, from both phonetic and phonological perspectives. Two papers resulting from this collaboration have recently been published by [Language and Speech](pdf/Onosson, Stewart - 2021 - Language and Speech.pdf){target="_blank"} and [Laboratory Phonology](pdf/Onosson, Stewart - 2021 - Laboratory Phonology preprint.pdf){target="_blank"}.
 
-* **Ethnoloinguistic variation in *Manitoba/Prairie English*.** This research is centred on [Dr. Nicole Rosen's](https://home.cc.umanitoba.ca/~rosenn/) Canada Research Chair-funded [*Languages in the Prairies Project*](https://home.cc.umanitoba.ca/~rosenn/sace.html) (LIPP). I have documented some distinctive ethnolinguistic patterns in some phonological processes within the Filipino and Mennonite communities in Manitoba, leading to two [conference presentations](pdf/Onosson, Rosen - 2020 - American Dialect Society.pdf){target="_blank"}, including a [published proceedings](pdf/Onosson, Rosen, Li - 2019 - ICPhS Proceedings.pdf){target="_blank"}, with another article currently under peer review. 
+* **Ethnoloinguistic variation in *Manitoba/Prairie English*.** This research is centred on [Dr. Nicole Rosen's](https://home.cc.umanitoba.ca/~rosenn/){target="_blank"} Canada Research Chair-funded [*Languages in the Prairies Project*](https://home.cc.umanitoba.ca/~rosenn/sace.html){target="_blank"} (LIPP). I have documented some distinctive ethnolinguistic patterns in some phonological processes within the Filipino and Mennonite communities in Manitoba, leading to two [conference presentations](pdf/Onosson, Rosen - 2020 - American Dialect Society.pdf){target="_blank"}, including a [published proceedings](pdf/Onosson, Rosen, Li - 2019 - ICPhS Proceedings.pdf){target="_blank"}, with another article currently under peer review. 
 
-* **Phonetic analysis of *Hul'q'umi'num'* and *Tsilhqot'in* (Indigenous Languages of British Columbia).** This work is a collaboration with [Dr. Sonya Bird](https://www.uvic.ca/humanities/linguistics/people/faculty/birdsonya.php) (University of Victoria), involving the Coast Salish language *Hul'q'umi'num'* spoken on Vancouver Island, and the Athabaskan language *Tsilhqot'in* spoken in the interior of B.C. My prior work on Hul'q'umi'num' has involved comparing production differences between fluent elders and language learners, which has produced two [conference presentations](pdf/Onosson - 2019 - Prairie Workshop on Languages and Linguistics V.pdf){target="_blank"}, including a [published proceedings](pdf/Onosson, Bird - 2019 - ICPhS Proceedings.pdf){target="_blank"}. Currently, I am part of a larger research team which will focus on child language acquisition/development in Hul'q'umi'num'.
+* **Phonetic analysis of *Hul'q'umi'num'* and *Tsilhqot'in* (Indigenous Languages of British Columbia).** This work is a collaboration with [Dr. Sonya Bird](https://www.uvic.ca/humanities/linguistics/people/faculty/birdsonya.php){target="_blank"} (University of Victoria), involving the Coast Salish language *Hul'q'umi'num'* spoken on Vancouver Island, and the Athabaskan language *Tsilhqot'in* spoken in the interior of B.C. My prior work on Hul'q'umi'num' has involved comparing production differences between fluent elders and language learners, which has produced two [conference presentations](pdf/Onosson - 2019 - Prairie Workshop on Languages and Linguistics V.pdf){target="_blank"}, including a [published proceedings](pdf/Onosson, Bird - 2019 - ICPhS Proceedings.pdf){target="_blank"}. Currently, I am part of a larger research team which will focus on child language acquisition/development in Hul'q'umi'num'.
 
 ---
 
@@ -65,8 +91,8 @@ This site hosts archived copies of most of my published or presented work going 
 
 Year | Title (local download links) | Journal / Forum / Venue (external links)
 -|---|---
-2021 | [The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Language and Speech.pdf){target="_blank"} (with Jesse Stewart) | [Language and Speech](https://doi.org/10.1177/00238309211014911)
-&nbsp; | [A multi-method approach to correlate identification in acoustic data: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Laboratory Phonology.pdf){target="_blank"} (with Jesse Stewart) | [Laboratory Phonology](https://www.journal-labphon.org/article/10.5334/labphon.291)
+2021 | [The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Language and Speech.pdf){target="_blank"} (with Jesse Stewart) | [Language and Speech](https://doi.org/10.1177/00238309211014911){target="_blank"}
+&nbsp; | [A multi-method approach to correlate identification in acoustic data: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Laboratory Phonology.pdf){target="_blank"} (with Jesse Stewart) | [Laboratory Phonology](https://www.journal-labphon.org/article/10.5334/labphon.291){target="_blank"}
 &nbsp; | [Phonetic change in the grammaticalization of Brazilian Portuguese *tipo*](pdf/Thompson, Onosson - 2021 - Canadian Linguistic Association.pdf){target="_blank"} (with Christiani Thompson) | Canadian Linguistic Association
 &nbsp; | A phonetic case study of Tŝilhqot’in /z/ and /z^ʕ^/ (with Sonya Bird) | Under review
 &nbsp; | Prevelar vowel raising and merger in Manitoba English | Under review
@@ -77,25 +103,25 @@ Year | Title (local download links) | Journal / Forum / Venue (external links)
 2020 | [The effects of language contact on non-native diphthongs in lexical borrowings: The case of Media Lengua](pdf/Onosson, Stewart - 2020 - Society for Pidgin and Creole Linguistics.pdf){target="_blank"} (with Jesse Stewart) | Society for Pidgin and Creole Linguistics, New Orleans LA
 &nbsp; | [Ethnolinguistic Vowel Differentiation in Manitoba English](pdf/Onosson, Rosen - 2020 - American Dialect Society.pdf){target="_blank"} | American Dialect Society, New Orleans LA
 &nbsp;  | TRAP-raising and the Canadian/Low-Back-Merger Shift in Prairie English  (accepted--did not present due to Covid19) | Canadian Linguistic Association, Western University
-2019 | [Workshop on Statistics for Linguistics](https://github.com/onosson/UM_Workshop) | University of Manitoba
+2019 | [Workshop on Statistics for Linguistics](https://github.com/onosson/UM_Workshop){target="_blank"} | University of Manitoba
 &nbsp; | [Differences In Vowel-glide Production Between L1 And L2 Speakers Of Hul'q'umi'num'](pdf/Onosson, Bird - 2019 - ICPhS Proceedings.pdf){target="_blank"} (with Sonya Bird) | [International Congress of Phonetic Sciences, Melbourne](https://assta.org/proceedings/ICPhS2019/papers/ICPhS_1033.pdf){target="_blank"}
 &nbsp; | [Ethnolinguistic Differentiation and the Canadian Shift](pdf/Onosson, Rosen, Li - 2019 - ICPhS Proceedings.pdf){target="_blank"} (with Nicole Rosen and Lanlan Li) | [International Congress of Phonetic Sciences, Melbourne](https://assta.org/proceedings/ICPhS2019/papers/ICPhS_417.pdf){target="_blank"}
 &nbsp; | [Acoustic Phonetics and Language Revitalization in the Hul’q’umi’num’ Community](pdf/Onosson, Bird - 2019 - Prairie Workshop on Languages and Linguistics V.pdf){target="_blank"} (with Sonya Bird) | Prairie Workshop on Languages and Linguistics V, University of Winnipeg
 2018 | [Best practices in automatic vowel production analysis](pdf/Roeder, Onosson - 2018 - Sociolinguistics Symposium 22.pdf){target="_blank"} | Sociolinguistics Symposium 22, University of Auckland
-&nbsp; | [Joining the Western Region: Sociophonetic Shift in Victoria](pdf/Roeder, Onosson, D'Arcy - 2018 - Journal of English Linguistics.pdf){target="_blank"} (with Rebecca Roeder and Alex D'Arcy) | [Journal of English Linguistics](https://doi.org/10.1177/0075424217753987)
-&nbsp; | [An Acoustic Study of Canadian Raising in Three Dialects of North American English](pdf/Onosson - 2018 - PhD Dissertation.pdf){target="_blank"} | [Doctoral dissertation, the University of Victoria](https://dspace.library.uvic.ca/handle/1828/9274)
+&nbsp; | [Joining the Western Region: Sociophonetic Shift in Victoria](pdf/Roeder, Onosson, D'Arcy - 2018 - Journal of English Linguistics.pdf){target="_blank"} (with Rebecca Roeder and Alex D'Arcy) | [Journal of English Linguistics](https://doi.org/10.1177/0075424217753987){target="_blank"}
+&nbsp; | [An Acoustic Study of Canadian Raising in Three Dialects of North American English](pdf/Onosson - 2018 - PhD Dissertation.pdf){target="_blank"} | [Doctoral dissertation, the University of Victoria](https://dspace.library.uvic.ca/handle/1828/9274){target="_blank"}
 2017 | [Canadian Raising or Canadian Shortening? Comparing and contrasting dynamic models of vowel duration](pdf/Onosson - 2017 - Chicago Workshop on Dynamic Modeling.pdf){target="_blank"} | Workshop on Dynamic Modeling in Phonetics & Phonology, University of Chicago
 2016 | [Urban youth in Rio de Janeiro: Contemporary linguistic variation in Brazilian Portuguese](pdf/Thompson, Onosson - 2016 - New Ways of Analyzing Variation 45.pdf){target="_blank"} (with Christiani Thompson) | New Ways of Analyzing Variation 45, Simon Fraser University
 &nbsp; | [Yod variation in Victoria, B.C.: An acoustic-centred approach](pdf/Onosson - 2016 - American Dialect Society.pdf){target="_blank"} | American Dialect Society, Washington DC
 2015 | [Simultaneous Innovation & Conservation: Unpacking Victoria's Vowels](pdf/Onosson, Roeder, D'Arcy - 2015 - New Ways of Analyzing Variation 44.pdf){target="_blank"} (with Rebecca Roeder and Alex D'Arcy) | New Ways of Analyzing Variation 44, University of Toronto
 &nbsp; | [There's a New Ethnolect in Town: Vowel Patterning of Filipino English in Winnipeg](pdf/Rosen, Onosson, Li - 2015 - New Ways of Analyzing Variation 44.pdf){target="_blank"} (with Nicole Rosen and Lanlan Li) | New Ways of Analyzing Variation 44, University of Toronto
 &nbsp; | [City, province or region: What do the vowels of Victoria tell us?](pdf/Onosson, Roeder, D'Arcy - 2015 - American Dialect Society.pdf){target="_blank"} (with Rebecca Roeder and Alex D'Arcy) | American Dialect Society, Portland OR
-&nbsp; | [Acoustic Phonetics Lab Manual](pdf/Bird, Wang, Onosson, Benner - 2015 - Acoustic Phonetics Lab Manual.pdf){target="_blank"} (with Sonya Bird, Qian Wang and Allison Benner) | [Course textbook, University of Victoria](https://dspace.library.uvic.ca/handle/1828/11288)
+&nbsp; | [Acoustic Phonetics Lab Manual](pdf/Bird, Wang, Onosson, Benner - 2015 - Acoustic Phonetics Lab Manual.pdf){target="_blank"} (with Sonya Bird, Qian Wang and Allison Benner) | [Course textbook, University of Victoria](https://dspace.library.uvic.ca/handle/1828/11288){target="_blank"}
 2014 | [The Prosodic Structure of Canadian Raising](pdf/Onosson - 2014 - Canadian Linguistic Association Proceedings.pdf){target="_blank"} | [Proceedings of the Canadian Linguistic Association](https://cla-acl.artsci.utoronto.ca/wp-content/uploads/Onosson-2014.pdf){target="_blank"}
 &nbsp; | [The Prosodic Structure of Canadian Raising](pdf/Onosson - 2014 - Canadian Linguistic Association.pdf){target="_blank"} | Canadian Linguistic Association, Brock University
 &nbsp; | [Analyzing complex vowel articulations from acoustic data](pdf/Onosson - 2014 - Cascadia Workshop in Sociolinguistics.pdf){target="_blank"} | Cascadia Workshop in Sociolinguistics, University of Victoria
-&nbsp; | [Finding our voice: A primer on the Manitoba dialect](pdf/Sanderson - 2014 - Winnipeg Free Press.pdf){target="_blank"} (interview) | [David Sanderson: The Winnipeg Free Press](https://www.winnipegfreepress.com/breakingnews/finding-our-voice-273288101.html)
-2010 | [Canadian Raising in Manitoba: Acoustic Effects of Articulatory Phasing and Lexical Frequency](pdf/Onosson - 2010 - MA Thesis.pdf){target="_blank"} | [Master's thesis, University of Manitoba](https://mspace.lib.umanitoba.ca/handle/1993/4260)
+&nbsp; | [Finding our voice: A primer on the Manitoba dialect](pdf/Sanderson - 2014 - Winnipeg Free Press.pdf){target="_blank"} (interview) | [David Sanderson: The Winnipeg Free Press](https://www.winnipegfreepress.com/breakingnews/finding-our-voice-273288101.html){target="_blank"}
+2010 | [Canadian Raising in Manitoba: Acoustic Effects of Articulatory Phasing and Lexical Frequency](pdf/Onosson - 2010 - MA Thesis.pdf){target="_blank"} | [Master's thesis, University of Manitoba](https://mspace.lib.umanitoba.ca/handle/1993/4260){target="_blank"}
 
 ---
 
@@ -107,6 +133,7 @@ Year | Course Title or Position | Institution
 -|---|---
 2022 | Phonetics and Phonology LING-2001/ANTH-2401/ENGL-2803 | University of Winnipeg
 2022 | Academic Writing: Multidisciplinary RHET-1105 | University of Winnipeg
+2022 | Academic Writing: Humanities RHET-1105 | University of Winnipeg
 2019--2021 | SSHRC Postdoctoral Research Fellowship | University of Manitoba
 2021 | Academic Writing: Multidisciplinary RHET-1105 | University of Winnipeg
 2021 | Topics in Linguistics: Practical Statistics for Linguistics LING 4920/7920 | University of Manitoba
@@ -140,6 +167,6 @@ Year | Course Title or Position | Institution
 
 <br>
 
-Site built by [Sky Onosson](mailto:sky@onosson.com) in [R Markdown](https://rmarkdown.rstudio.com/index.html)
+Site built by [Sky Onosson](mailto:sky@onosson.com) in [R Markdown](https://rmarkdown.rstudio.com/index.html){target="_blank"}
 
 </center>
