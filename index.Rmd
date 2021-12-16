@@ -107,6 +107,7 @@ Year | Course Title or Position | Institution
 -|---|---
 2022 | Phonetics and Phonology LING-2001/ANTH-2401/ENGL-2803 | University of Winnipeg
 2022 | Academic Writing: Multidisciplinary RHET-1105 | University of Winnipeg
+2022 | Academic Writing: Humanities RHET-1105 | University of Winnipeg
 2019--2021 | SSHRC Postdoctoral Research Fellowship | University of Manitoba
 2021 | Academic Writing: Multidisciplinary RHET-1105 | University of Winnipeg
 2021 | Topics in Linguistics: Practical Statistics for Linguistics LING 4920/7920 | University of Manitoba
