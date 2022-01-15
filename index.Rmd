@@ -6,14 +6,14 @@ output:
 
 <style type="text/css">
   body{
-  font-family: Avenir;
+  font-family: Helvetica;
   font-size: 12pt;
 }
 </style>
 
 <img src="images/hands.jpg" style="width:25%; border:3px solid; margin-right: 5px" align="right">
 
-This site contains information on my research & work as a linguist. I am a sessional lecturer at several universities, and have been mainly affiliated with the Universities of Manitoba, Winnipeg, and Victoria. I am always open to interesting opportunities of all kinds, so feel free to get in touch through the email link above!
+This site contains information on my research & work as a linguist and data scientist. I am currently and have worked as a sessional lecturer at several universities, and have been mainly affiliated with the Universities of Manitoba, Winnipeg, and Victoria. I am always open to interesting opportunities of all kinds, so feel free to get in touch through the email link above!
 
 <br>
 
@@ -28,7 +28,7 @@ This site contains information on my research & work as a linguist. I am a sessi
 
 # About Me
 
-My research revolves around the fields of phonetics, phonology, sociolinguistics, and quantitative methodology. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view.
+My research revolves around the fields of phonetics, phonology, sociolinguistics, and quantitative methodology. A lot of my work has looked at the temporal/dynamic properties of vowel production, such as diphthongs, from both phonological and phonetic points of view. I make heavy use of the statistical coding language R for developing models of language production and visualizing the results of my analyses.
 
 I am a graduate of the 
 [University of Manitoba](http://www.umanitoba.ca/linguistics/) (B.A. and M.A.) and the 
@@ -40,7 +40,7 @@ My academic work and research experience includes teaching courses in Linguistic
 [Simon Fraser University](http://www.sfu.ca/linguistics.html), serving as a research assistant and lab instructor at the 
 [University of Victoria](https://www.uvic.ca/humanities/linguistics/), presenting at a variety of linguistics conferences large and small, and volunteering as editor and conference organizer on multiple occasions. 
 
-[My academic CV](pdf/OnossonCV.pdf){target="_blank"} contains much more information on all of the above. I also have an [industry-facing resume](pdf/OnossonResume.pdf){target="_blank"} for non-academic purposes, should they arise.
+[My academic CV](pdf/OnossonCV.pdf){target="_blank"} contains much more information on all of the above. I also have an [industry-facing resume](pdf/OnossonResume.pdf){target="_blank"} which emphasizes my practical skills and experience.
 
 ---
 

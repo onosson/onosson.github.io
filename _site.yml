@@ -10,6 +10,9 @@ navbar:
     - text: "CV"
       icon: fa-file-alt
       href: https://onosson.github.io/pdf/OnossonCV.pdf
+    - text: "Resumé"
+      icon: fa-file-alt
+      href: https://onosson.github.io/pdf/OnossonResume.pdf
     - text: "ResearchGate"
       icon: site_libs/researchgate.svg
       href: https://www.researchgate.net/profile/Sky_Onosson
