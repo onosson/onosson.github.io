@@ -20,8 +20,8 @@ This site contains information on my research & work as a linguist and data scie
 ### On this page
 
 * [About me](#about)
-* [Research projects](#projects)
-* [Research output](#output)
+* [Research projects - descriptions & collaborators](#projects)
+* [Research output - papers, talks, posters](#output)
 * [Teaching and work experience](#work)
 
 <br>
