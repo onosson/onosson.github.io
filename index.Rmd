@@ -13,7 +13,7 @@ output:
 
 <img src="images/hands.jpg" style="width:25%; border:3px solid; margin-right: 5px" align="right">
 
-This site contains information on my research & work as a linguist and data scientist. I am currently and have worked as a sessional lecturer at several universities, and have been mainly affiliated with the Universities of Manitoba, Winnipeg, and Victoria. I am always open to interesting opportunities of all kinds, so feel free to get in touch through the email link above!
+This site contains information on my research & work as a linguist and data scientist. I have been academically affiliated with the Universities of Manitoba, Winnipeg, and Victoria.
 
 <br>
 
