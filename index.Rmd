@@ -65,7 +65,7 @@ This site hosts archived copies of most of my published or presented work going 
 
 Year | Title (local download links) | Journal / Forum / Venue (external links)
 -|---|---
-2022 | [Prevelar vowel raising and merger in Manitoba English - preprint](pdf/Onosson - 2022 - Journal of English Linguistics.pdf){target="_blank"} | Journal of English Linguistics (in press)
+2022 | [Prevelar vowel raising and merger in Manitoba English](pdf/Onosson - 2022 - Journal of English Linguistics.pdf){target="_blank"} | [Journal of English Linguistics](https://doi.org/10.1177/00754242221109856)
 &nbsp; | [A phonetic case study of Tŝilhqot’in /z/ and /z^ʕ^/ - preprint](pdf/Bird, Onosson - 2022 - JIPA.pdf){target="_blank"} (with Sonya Bird) | [Journal of the International Phonetic Association](https://doi.org/10.1017/S0025100322000093)
 &nbsp; | Form, function, and reduction: Phonetic erosion in the grammaticalization of Brazilian Portuguese  *tipo* (with Christiani Thompson) | In preparation
 &nbsp; | An acoustic speech study of the anglophone Mennonite communities of southern Manitoba | In preparation
