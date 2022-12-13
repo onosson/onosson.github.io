@@ -65,12 +65,14 @@ This site hosts archived copies of most of my published or presented work going 
 
 Year | Title (local download links) | Journal / Forum / Venue (external links)
 -|---|---
+2023 | Regional differences in Media Lengua vowels (with Jesse Stewart) | In preparation
+&nbsp; | Form, function, and reduction: Phonetic erosion in the grammaticalization of Brazilian Portuguese  *tipo* (with Christiani Thompson) | In preparation
+&nbsp; | Variable /a/-raising in Cotopaxi Media Lengua (with Jesse Stewart) | In preparation
+&nbsp; | Quotative constructions in spoken vernacular Brazilian Portuguese (with Christiani Thompson) | In preparation
+&nbsp; | Canadian Shift amidst demographic shift: Ethnolinguistic effects in Western Canadian English vowels (with Nicole Rosen and Lanlan Li) | In preparation
+&nbsp; | An acoustic speech study of the anglophone Mennonite communities of southern Manitoba | In preparation
 2022 | [Prevelar vowel raising and merger in Manitoba English](pdf/Onosson - 2022 - Journal of English Linguistics.pdf){target="_blank"} | [Journal of English Linguistics](https://doi.org/10.1177/00754242221109856)
 &nbsp; | [A phonetic case study of Tŝilhqot’in /z/ and /z^ʕ^/ - preprint](pdf/Bird, Onosson - 2022 - JIPA.pdf){target="_blank"} (with Sonya Bird) | [Journal of the International Phonetic Association](https://doi.org/10.1017/S0025100322000093)
-&nbsp; | Form, function, and reduction: Phonetic erosion in the grammaticalization of Brazilian Portuguese  *tipo* (with Christiani Thompson) | In preparation
-&nbsp; | An acoustic speech study of the anglophone Mennonite communities of southern Manitoba | In preparation
-&nbsp; | Canadian Shift amidst demographic shift: Ethnolinguistic effects in Western Canadian English vowels (with Nicole Rosen and Lanlan Li) | In preparation
-&nbsp; | Quotative constructions in spoken vernacular Brazilian Portuguese (with Christiani Thompson) | In preparation
 2021 | [The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Language and Speech.pdf){target="_blank"} (with Jesse Stewart) | [Language and Speech](https://doi.org/10.1177/00238309211014911)
 &nbsp; | [A multi-method approach to correlate identification in acoustic data: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Laboratory Phonology.pdf){target="_blank"} (with Jesse Stewart) | [Laboratory Phonology](https://www.journal-labphon.org/article/10.5334/labphon.291)
 &nbsp; | [Phonetic change in the grammaticalization of Brazilian Portuguese *tipo*](pdf/Thompson, Onosson - 2021 - Canadian Linguistic Association.pdf){target="_blank"} (with Christiani Thompson) | Canadian Linguistic Association
