@@ -13,7 +13,7 @@ output:
 
 <img src="images/hands.jpg" style="width:25%; border:3px solid; margin-right: 5px" align="right">
 
-This site contains information on my research & work as a linguist and data scientist. I have been academically affiliated with the Universities of Manitoba, Winnipeg, and Victoria.
+This site contains information on my research & work as a linguist and data scientist. 
 
 <br>
 
@@ -34,11 +34,12 @@ I am a graduate of the
 [University of Manitoba](http://www.umanitoba.ca/linguistics/) (B.A. and M.A.) and the 
 [University of Victoria](https://www.uvic.ca/humanities/linguistics/) (Ph.D.).
 
-My academic work and research experience includes teaching courses in Linguistics at the 
+I currently serve as a Research Officer for the Government of British Columbia and an Adjunct Professor of Linguistics for the University of Victoria.
+
+I have previously taught courses in Linguistics at the 
 [University of Manitoba](http://www.umanitoba.ca/linguistics/), the 
 [University of Winnipeg](https://www.uwinnipeg.ca/interdisciplinary-linguistics/index.html), and 
-[Simon Fraser University](http://www.sfu.ca/linguistics.html), serving as a research assistant and lab instructor at the 
-[University of Victoria](https://www.uvic.ca/humanities/linguistics/), presenting at a variety of linguistics conferences large and small, and volunteering as editor and conference organizer on multiple occasions. 
+[Simon Fraser University](http://www.sfu.ca/linguistics.html).
 
 [My academic CV](pdf/OnossonCV.pdf){target="_blank"} contains much more information on all of the above. I also have an [industry-facing resume](pdf/OnossonResume.pdf){target="_blank"} which emphasizes my practical skills and experience.
 
@@ -70,7 +71,6 @@ Year | Title (local download links) | Journal / Forum / Venue (external links)
 &nbsp; | Form, function, and reduction: Phonetic erosion in the grammaticalization of Brazilian Portuguese  *tipo* (with Christiani Thompson) | In preparation
 &nbsp; | Quotative constructions in spoken vernacular Brazilian Portuguese (with Christiani Thompson) | In preparation
 &nbsp; | Canadian Shift amidst demographic shift: Ethnolinguistic effects in Western Canadian English vowels (with Nicole Rosen and Lanlan Li) | In preparation
-&nbsp; | An acoustic speech study of the anglophone Mennonite communities of southern Manitoba | In preparation
 2022 | [Prevelar vowel raising and merger in Manitoba English](pdf/Onosson - 2022 - Journal of English Linguistics.pdf){target="_blank"} | [Journal of English Linguistics](https://doi.org/10.1177/00754242221109856)
 &nbsp; | [A phonetic case study of Tŝilhqot’in /z/ and /z^ʕ^/ - preprint](pdf/Bird, Onosson - 2022 - JIPA.pdf){target="_blank"} (with Sonya Bird) | [Journal of the International Phonetic Association](https://doi.org/10.1017/S0025100322000093)
 2021 | [The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Language and Speech.pdf){target="_blank"} (with Jesse Stewart) | [Language and Speech](https://doi.org/10.1177/00238309211014911)
@@ -103,10 +103,11 @@ Year | Title (local download links) | Journal / Forum / Venue (external links)
 
 # Teaching and work experience {#work}
 
-Academic courses which I have taught are listed below, along with other related work I have done and positions I have held:
+In addition to positions which I have held, individual academic courses which I have taught are listed below:
 
-Year | Course Title or Position | Institution
+Year | Position or Course Title | Institution
 -|---|---
+2023-- | Adjunct Professor of Linguistics | University of Victoria
 2022-- | Research Officer | Government of British Columbia
 2022 | Phonetics and Phonology LING-2001/ANTH-2401/ENGL-2803 | University of Winnipeg
 2022 | Academic Writing: Multidisciplinary RHET-1105 | University of Winnipeg
