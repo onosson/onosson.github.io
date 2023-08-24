@@ -66,8 +66,8 @@ This site hosts archived copies of most of my published or presented work going 
 
 Year | Title (local download links) | Journal / Forum / Venue (external links)
 -|---|---
-2023 | [Cotopaxi Media Lengua vowels: A preliminary analysis](pdf/Stewart, Onosson - 2023 - ICPhS.pdf){target="_blank"} (with Jesse Stewart) | International Congress of Phonetic Sciences, Prague (accepted)
-&nbsp; | [Vowel raising in Cotopaxi Quichuan languages](pdf/Onosson, Stewart - 2023 - ICPhS.pdf){target="_blank"} (with Jesse Stewart) | International Congress of Phonetic Sciences, Prague (accepted)
+2023 | [Cotopaxi Media Lengua vowels: A preliminary analysis](pdf/Stewart, Onosson - 2023 - ICPhS.pdf){target="_blank"} (with Jesse Stewart) | [International Congress of Phonetic Sciences, Prague](https://drive.google.com/file/d/15U2l2y4_-9lyZAgmiccQYXYj9zBi_CAu/view)
+&nbsp; | [Vowel raising in Cotopaxi Quichuan languages](pdf/Onosson, Stewart - 2023 - ICPhS.pdf){target="_blank"} (with Jesse Stewart) | [International Congress of Phonetic Sciences, Prague](https://drive.google.com/file/d/15U2l2y4_-9lyZAgmiccQYXYj9zBi_CAu/view)
 &nbsp; | Form, function, and reduction: Phonetic erosion in the grammaticalization of Brazilian Portuguese  *tipo* (with Christiani Thompson) | In preparation
 &nbsp; | "Chilcotin flattening" revisited: A phonetic investigation of Tsilhqot'in retraction effects (with Sonya Bird) | In preparation
 &nbsp; | Quotative constructions in spoken vernacular Brazilian Portuguese (with Christiani Thompson) | In preparation
