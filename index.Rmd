@@ -69,10 +69,6 @@ Year | Title (local download links) | Journal / Forum / Venue (external links)
 2023 | [A phonetic case study of Tŝilhqot’in /z/ and /z^ʕ^/ - preprint](pdf/Bird, Onosson - 2023 - JIPA.pdf){target="_blank"} (with Sonya Bird) | [Journal of the International Phonetic Association](https://doi.org/10.1017/S0025100322000093) (open access)
 &nbsp; | [Cotopaxi Media Lengua vowels: A preliminary analysis](pdf/Stewart, Onosson - 2023 - ICPhS.pdf){target="_blank"} (with Jesse Stewart) | [International Congress of Phonetic Sciences, Prague](https://guarant.cz/icphs2023/250.pdf)
 &nbsp; | [Vowel raising in Cotopaxi Quichuan languages](pdf/Onosson, Stewart - 2023 - ICPhS.pdf){target="_blank"} (with Jesse Stewart) | [International Congress of Phonetic Sciences, Prague](https://guarant.cz/icphs2023/472.pdf)
-&nbsp; | Form, function, and reduction: Phonetic erosion in the grammaticalization of Brazilian Portuguese  *tipo* (with Christiani Thompson) | In preparation
-&nbsp; | "Chilcotin flattening" revisited: A phonetic investigation of Tsilhqot'in retraction effects (with Sonya Bird) | In preparation
-&nbsp; | Quotative constructions in spoken vernacular Brazilian Portuguese (with Christiani Thompson) | In preparation
-&nbsp; | Canadian Shift amidst demographic shift: Ethnolinguistic effects in Western Canadian English vowels (with Nicole Rosen and Lanlan Li) | In preparation
 2022 | [Prevelar vowel raising and merger in Manitoba English](pdf/Onosson - 2022 - Journal of English Linguistics.pdf){target="_blank"} | [Journal of English Linguistics](https://doi.org/10.1177/00754242221109856) (open access)
 2021 | [The effects of language contact on non-native vowel sequences in lexical borrowings: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Language and Speech.pdf){target="_blank"} (with Jesse Stewart) | [Language and Speech](https://doi.org/10.1177/00238309211014911) (open access)
 &nbsp; | [A multi-method approach to correlate identification in acoustic data: The case of Media Lengua](pdf/Onosson, Stewart - 2021 - Laboratory Phonology.pdf){target="_blank"} (with Jesse Stewart) | [Laboratory Phonology](https://www.journal-labphon.org/article/10.5334/labphon.291) (open access)
@@ -99,6 +95,13 @@ Year | Title (local download links) | Journal / Forum / Venue (external links)
 &nbsp; | [Analyzing complex vowel articulations from acoustic data](pdf/Onosson - 2014 - Cascadia Workshop in Sociolinguistics.pdf){target="_blank"} | Cascadia Workshop in Sociolinguistics, University of Victoria
 &nbsp; | [Finding our voice: A primer on the Manitoba dialect](pdf/Sanderson - 2014 - Winnipeg Free Press.pdf){target="_blank"} (interview) | [David Sanderson: The Winnipeg Free Press](https://www.winnipegfreepress.com/breakingnews/finding-our-voice-273288101.html)
 2010 | [Canadian Raising in Manitoba: Acoustic Effects of Articulatory Phasing and Lexical Frequency](pdf/Onosson - 2010 - MA Thesis.pdf){target="_blank"} | [Master's thesis, University of Manitoba](https://mspace.lib.umanitoba.ca/handle/1993/4260)
+
+Works in progress:
+
+- Form, function, and reduction: Phonetic erosion in the grammaticalization of Brazilian Portuguese  *tipo* (with Christiani Thompson)
+- "Chilcotin flattening" revisited: A phonetic investigation of Tsilhqot'in retraction effects (with Sonya Bird)
+- Quotative constructions in spoken vernacular Brazilian Portuguese (with Christiani Thompson)
+- Canadian Shift amidst demographic shift: Ethnolinguistic effects in Western Canadian English vowels (with Nicole Rosen and Lanlan Li)
 
 ---
 
